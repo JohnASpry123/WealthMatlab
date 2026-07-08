@@ -116,7 +116,7 @@ function out = fetchBEARealGDPByState(years)
             params.TableName = tbl;
             params.LineCode = '1';
             params.GeoFIPS = 'STATE';
-            params.Year = sprintf('%d,%d', years(1), years(end));
+            params.Year = formatBEAYearList(years);
             params.ResultFormat = 'JSON';
 
             raw = webread('https://apps.bea.gov/api/data', params);
@@ -152,6 +152,15 @@ function out = fetchBEARealGDPByState(years)
 
     % Keep only the requested year window and contiguous U.S. states + AK, HI.
     out = out(out.year >= years(1) & out.year <= years(end), :);
+end
+
+
+function yearList = formatBEAYearList(years)
+% BEA interprets comma-separated Year values as an explicit list, not a
+% numeric range, so include every requested sample year in the query.
+
+    yearList = sprintf('%d,', years);
+    yearList = yearList(1:end-1);
 end
 
 function [popOut, popWOut] = fetchCensusPopulationByState(years)
