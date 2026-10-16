@@ -1,0 +1,4 @@
+/data/us_states_raw/
+/data/USStatesData.mat
+/output/us_states/
+__pycache__/

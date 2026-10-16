@@ -1,0 +1,669 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1590" viewBox="0 0 1160 1590">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172b4d">
+<text x="30" y="36" font-size="26">Population changes at Census vintage boundaries</text>
+<text x="30" y="66" font-size="17">Annual log percentage points. Blue = decline; red = increase. * = unusual versus local trend.</text>
+<text x="30" y="92" font-size="17">Color saturates at ±3 points; flags are screening rules, not proof of a methodological break.</text>
+<text x="240" y="130" font-size="16">1999/00</text>
+<text x="240" y="152" font-size="14">Total</text>
+<text x="388" y="130" font-size="16">2009/10</text>
+<text x="388" y="152" font-size="14">Total</text>
+<text x="536" y="130" font-size="16">2019/20</text>
+<text x="536" y="152" font-size="14">Total</text>
+<text x="684" y="130" font-size="16">1999/00</text>
+<text x="684" y="152" font-size="14">Ages 15–64</text>
+<text x="832" y="130" font-size="16">2009/10</text>
+<text x="832" y="152" font-size="14">Ages 15–64</text>
+<text x="980" y="130" font-size="16">2019/20</text>
+<text x="980" y="152" font-size="14">Ages 15–64</text>
+<text x="25" y="189" font-size="16">Alabama</text>
+<rect x="230" y="170" width="142" height="26" fill="#f7e2e0"/>
+<text x="270" y="189" font-size="16" fill="black">+0.50</text>
+<rect x="378" y="170" width="142" height="26" fill="#f5ddda"/>
+<text x="418" y="189" font-size="16" fill="black">+0.58</text>
+<rect x="526" y="170" width="142" height="26" fill="#d46b60"/>
+<text x="566" y="189" font-size="16" fill="black">+2.51*</text>
+<rect x="674" y="170" width="142" height="26" fill="#f6dfdc"/>
+<text x="714" y="189" font-size="16" fill="black">+0.55</text>
+<rect x="822" y="170" width="142" height="26" fill="#f6e0de"/>
+<text x="862" y="189" font-size="16" fill="black">+0.52</text>
+<rect x="970" y="170" width="142" height="26" fill="#d8766c"/>
+<text x="1010" y="189" font-size="16" fill="black">+2.32*</text>
+<text x="25" y="217" font-size="16">Alaska</text>
+<rect x="230" y="198" width="142" height="26" fill="#f6e1df"/>
+<text x="270" y="217" font-size="16" fill="black">+0.51</text>
+<rect x="378" y="198" width="142" height="26" fill="#db8178"/>
+<text x="418" y="217" font-size="16" fill="black">+2.14*</text>
+<rect x="526" y="198" width="142" height="26" fill="#f9fbfd"/>
+<text x="566" y="217" font-size="16" fill="black">-0.10</text>
+<rect x="674" y="198" width="142" height="26" fill="#f5dddb"/>
+<text x="714" y="217" font-size="16" fill="black">+0.57</text>
+<rect x="822" y="198" width="142" height="26" fill="#dd887f"/>
+<text x="862" y="217" font-size="16" fill="black">+2.02*</text>
+<rect x="970" y="198" width="142" height="26" fill="#cadbeb"/>
+<text x="1010" y="217" font-size="16" fill="black">-0.83</text>
+<text x="25" y="245" font-size="16">Arizona</text>
+<rect x="230" y="226" width="142" height="26" fill="#d16155"/>
+<text x="270" y="245" font-size="16" fill="black">+2.69</text>
+<rect x="378" y="226" width="142" height="26" fill="#eec4bf"/>
+<text x="418" y="245" font-size="16" fill="black">+1.01</text>
+<rect x="526" y="226" width="142" height="26" fill="#a2c1db"/>
+<text x="566" y="245" font-size="16" fill="black">-1.45*</text>
+<rect x="674" y="226" width="142" height="26" fill="#d05c50"/>
+<text x="714" y="245" font-size="16" fill="black">+2.76</text>
+<rect x="822" y="226" width="142" height="26" fill="#f0cbc8"/>
+<text x="862" y="245" font-size="16" fill="black">+0.87</text>
+<rect x="970" y="226" width="142" height="26" fill="#598fbf"/>
+<text x="1010" y="245" font-size="16" fill="black">-2.61*</text>
+<text x="25" y="273" font-size="16">Arkansas</text>
+<rect x="230" y="254" width="142" height="26" fill="#eec4bf"/>
+<text x="270" y="273" font-size="16" fill="black">+1.00</text>
+<rect x="378" y="254" width="142" height="26" fill="#f0ccc8"/>
+<text x="418" y="273" font-size="16" fill="black">+0.86</text>
+<rect x="526" y="254" width="142" height="26" fill="#f1f6fa"/>
+<text x="566" y="273" font-size="16" fill="black">-0.22*</text>
+<rect x="674" y="254" width="142" height="26" fill="#e6a7a1"/>
+<text x="714" y="273" font-size="16" fill="black">+1.49*</text>
+<rect x="822" y="254" width="142" height="26" fill="#f2d1ce"/>
+<text x="862" y="273" font-size="16" fill="black">+0.78</text>
+<rect x="970" y="254" width="142" height="26" fill="#d5e3ef"/>
+<text x="1010" y="273" font-size="16" fill="black">-0.66</text>
+<text x="25" y="301" font-size="16">California</text>
+<rect x="230" y="282" width="142" height="26" fill="#e6aaa3"/>
+<text x="270" y="301" font-size="16" fill="black">+1.45</text>
+<rect x="378" y="282" width="142" height="26" fill="#efc6c2"/>
+<text x="418" y="301" font-size="16" fill="black">+0.96</text>
+<rect x="526" y="282" width="142" height="26" fill="#fbf2f1"/>
+<text x="566" y="301" font-size="16" fill="black">+0.23</text>
+<rect x="674" y="282" width="142" height="26" fill="#e0948d"/>
+<text x="714" y="301" font-size="16" fill="black">+1.81</text>
+<rect x="822" y="282" width="142" height="26" fill="#eec5c1"/>
+<text x="862" y="301" font-size="16" fill="black">+0.98</text>
+<rect x="970" y="282" width="142" height="26" fill="#fffefe"/>
+<text x="1010" y="301" font-size="16" fill="black">+0.01</text>
+<text x="25" y="329" font-size="16">Colorado</text>
+<rect x="230" y="310" width="142" height="26" fill="#d7746a"/>
+<text x="270" y="329" font-size="16" fill="black">+2.36</text>
+<rect x="378" y="310" width="142" height="26" fill="#e5a6a0"/>
+<text x="418" y="329" font-size="16" fill="black">+1.50</text>
+<rect x="526" y="310" width="142" height="26" fill="#f7e2e0"/>
+<text x="566" y="329" font-size="16" fill="black">+0.49</text>
+<rect x="674" y="310" width="142" height="26" fill="#d46b60"/>
+<text x="714" y="329" font-size="16" fill="black">+2.51</text>
+<rect x="822" y="310" width="142" height="26" fill="#e9b4ae"/>
+<text x="862" y="329" font-size="16" fill="black">+1.27</text>
+<rect x="970" y="310" width="142" height="26" fill="#f4f7fb"/>
+<text x="1010" y="329" font-size="16" fill="black">-0.18*</text>
+<text x="25" y="357" font-size="16">Connecticut</text>
+<rect x="230" y="338" width="142" height="26" fill="#f2d3d0"/>
+<text x="270" y="357" font-size="16" fill="black">+0.75</text>
+<rect x="378" y="338" width="142" height="26" fill="#f7e2e0"/>
+<text x="418" y="357" font-size="16" fill="black">+0.49</text>
+<rect x="526" y="338" width="142" height="26" fill="#f9e9e7"/>
+<text x="566" y="357" font-size="16" fill="black">+0.38</text>
+<rect x="674" y="338" width="142" height="26" fill="#f0ccc8"/>
+<text x="714" y="357" font-size="16" fill="black">+0.86</text>
+<rect x="822" y="338" width="142" height="26" fill="#f5dcda"/>
+<text x="862" y="357" font-size="16" fill="black">+0.59</text>
+<rect x="970" y="338" width="142" height="26" fill="#f2f6fa"/>
+<text x="1010" y="357" font-size="16" fill="black">-0.20</text>
+<text x="25" y="385" font-size="16">Delaware</text>
+<rect x="230" y="366" width="142" height="26" fill="#e6a9a3"/>
+<text x="270" y="385" font-size="16" fill="black">+1.46</text>
+<rect x="378" y="366" width="142" height="26" fill="#f0cbc7"/>
+<text x="418" y="385" font-size="16" fill="black">+0.88</text>
+<rect x="526" y="366" width="142" height="26" fill="#e5a49d"/>
+<text x="566" y="385" font-size="16" fill="black">+1.55</text>
+<rect x="674" y="366" width="142" height="26" fill="#e5a49e"/>
+<text x="714" y="385" font-size="16" fill="black">+1.54</text>
+<rect x="822" y="366" width="142" height="26" fill="#f2d2ce"/>
+<text x="862" y="385" font-size="16" fill="black">+0.77</text>
+<rect x="970" y="366" width="142" height="26" fill="#edc0bb"/>
+<text x="1010" y="385" font-size="16" fill="black">+1.07</text>
+<text x="25" y="413" font-size="16">Florida</text>
+<rect x="230" y="394" width="142" height="26" fill="#e0948c"/>
+<text x="270" y="413" font-size="16" fill="black">+1.81</text>
+<rect x="378" y="394" width="142" height="26" fill="#edc2be"/>
+<text x="418" y="413" font-size="16" fill="black">+1.03</text>
+<rect x="526" y="394" width="142" height="26" fill="#f7e4e2"/>
+<text x="566" y="413" font-size="16" fill="black">+0.46</text>
+<rect x="674" y="394" width="142" height="26" fill="#d66f65"/>
+<text x="714" y="413" font-size="16" fill="black">+2.44</text>
+<rect x="822" y="394" width="142" height="26" fill="#efc8c3"/>
+<text x="862" y="413" font-size="16" fill="black">+0.94</text>
+<rect x="970" y="394" width="142" height="26" fill="#fefdfd"/>
+<text x="1010" y="413" font-size="16" fill="black">+0.04</text>
+<text x="25" y="441" font-size="16">Georgia</text>
+<rect x="230" y="422" width="142" height="26" fill="#d97c72"/>
+<text x="270" y="441" font-size="16" fill="black">+2.23</text>
+<rect x="378" y="422" width="142" height="26" fill="#efc7c3"/>
+<text x="418" y="441" font-size="16" fill="black">+0.95</text>
+<rect x="526" y="422" width="142" height="26" fill="#eec5c1"/>
+<text x="566" y="441" font-size="16" fill="black">+0.98</text>
+<rect x="674" y="422" width="142" height="26" fill="#d67268"/>
+<text x="714" y="441" font-size="16" fill="black">+2.39</text>
+<rect x="822" y="422" width="142" height="26" fill="#f2d1ce"/>
+<text x="862" y="441" font-size="16" fill="black">+0.78</text>
+<rect x="970" y="422" width="142" height="26" fill="#f4dad8"/>
+<text x="1010" y="441" font-size="16" fill="black">+0.62</text>
+<text x="25" y="469" font-size="16">Hawaii</text>
+<rect x="230" y="450" width="142" height="26" fill="#faefee"/>
+<text x="270" y="469" font-size="16" fill="black">+0.27</text>
+<rect x="378" y="450" width="142" height="26" fill="#e9b4ae"/>
+<text x="418" y="469" font-size="16" fill="black">+1.28</text>
+<rect x="526" y="450" width="142" height="26" fill="#d56d62"/>
+<text x="566" y="469" font-size="16" fill="black">+2.48*</text>
+<rect x="674" y="450" width="142" height="26" fill="#f6e0de"/>
+<text x="714" y="469" font-size="16" fill="black">+0.52</text>
+<rect x="822" y="450" width="142" height="26" fill="#eec2be"/>
+<text x="862" y="469" font-size="16" fill="black">+1.03</text>
+<rect x="970" y="450" width="142" height="26" fill="#d56d62"/>
+<text x="1010" y="469" font-size="16" fill="black">+2.48*</text>
+<text x="25" y="497" font-size="16">Idaho</text>
+<rect x="230" y="478" width="142" height="26" fill="#e0928a"/>
+<text x="270" y="497" font-size="16" fill="black">+1.85</text>
+<rect x="378" y="478" width="142" height="26" fill="#edc1bd"/>
+<text x="418" y="497" font-size="16" fill="black">+1.05</text>
+<rect x="526" y="478" width="142" height="26" fill="#cc4e41"/>
+<text x="566" y="497" font-size="16" fill="black">+3.31*</text>
+<rect x="674" y="478" width="142" height="26" fill="#dc857c"/>
+<text x="714" y="497" font-size="16" fill="black">+2.07</text>
+<rect x="822" y="478" width="142" height="26" fill="#f4d7d5"/>
+<text x="862" y="497" font-size="16" fill="black">+0.67</text>
+<rect x="970" y="478" width="142" height="26" fill="#d77268"/>
+<text x="1010" y="497" font-size="16" fill="black">+2.38</text>
+<text x="25" y="525" font-size="16">Illinois</text>
+<rect x="230" y="506" width="142" height="26" fill="#f5dbd9"/>
+<text x="270" y="525" font-size="16" fill="black">+0.61</text>
+<rect x="378" y="506" width="142" height="26" fill="#f9ebe9"/>
+<text x="418" y="525" font-size="16" fill="black">+0.34</text>
+<rect x="526" y="506" width="142" height="26" fill="#eec4bf"/>
+<text x="566" y="525" font-size="16" fill="black">+1.01*</text>
+<rect x="674" y="506" width="142" height="26" fill="#f0ccc8"/>
+<text x="714" y="525" font-size="16" fill="black">+0.87</text>
+<rect x="822" y="506" width="142" height="26" fill="#f9eae8"/>
+<text x="862" y="525" font-size="16" fill="black">+0.36</text>
+<rect x="970" y="506" width="142" height="26" fill="#eec3be"/>
+<text x="1010" y="525" font-size="16" fill="black">+1.02*</text>
+<text x="25" y="553" font-size="16">Indiana</text>
+<rect x="230" y="534" width="142" height="26" fill="#f2d1ce"/>
+<text x="270" y="553" font-size="16" fill="black">+0.77</text>
+<rect x="378" y="534" width="142" height="26" fill="#f7e3e0"/>
+<text x="418" y="553" font-size="16" fill="black">+0.48</text>
+<rect x="526" y="534" width="142" height="26" fill="#f0cbc7"/>
+<text x="566" y="553" font-size="16" fill="black">+0.88</text>
+<rect x="674" y="534" width="142" height="26" fill="#f0cbc8"/>
+<text x="714" y="553" font-size="16" fill="black">+0.88</text>
+<rect x="822" y="534" width="142" height="26" fill="#f8e5e3"/>
+<text x="862" y="553" font-size="16" fill="black">+0.44</text>
+<rect x="970" y="534" width="142" height="26" fill="#ffffff"/>
+<text x="1010" y="553" font-size="16" fill="black">+0.00</text>
+<text x="25" y="581" font-size="16">Iowa</text>
+<rect x="230" y="562" width="142" height="26" fill="#f8e8e6"/>
+<text x="270" y="581" font-size="16" fill="black">+0.39</text>
+<rect x="378" y="562" width="142" height="26" fill="#f5dcda"/>
+<text x="418" y="581" font-size="16" fill="black">+0.59</text>
+<rect x="526" y="562" width="142" height="26" fill="#eec4c0"/>
+<text x="566" y="581" font-size="16" fill="black">+0.99*</text>
+<rect x="674" y="562" width="142" height="26" fill="#f5dddb"/>
+<text x="714" y="581" font-size="16" fill="black">+0.57</text>
+<rect x="822" y="562" width="142" height="26" fill="#f5dddb"/>
+<text x="862" y="581" font-size="16" fill="black">+0.57</text>
+<rect x="970" y="562" width="142" height="26" fill="#f9fbfd"/>
+<text x="1010" y="581" font-size="16" fill="black">-0.09</text>
+<text x="25" y="609" font-size="16">Kansas</text>
+<rect x="230" y="590" width="142" height="26" fill="#f5dddb"/>
+<text x="270" y="609" font-size="16" fill="black">+0.57</text>
+<rect x="378" y="590" width="142" height="26" fill="#f0cac6"/>
+<text x="418" y="609" font-size="16" fill="black">+0.90</text>
+<rect x="526" y="590" width="142" height="26" fill="#f0cbc7"/>
+<text x="566" y="609" font-size="16" fill="black">+0.88*</text>
+<rect x="674" y="590" width="142" height="26" fill="#f1ceca"/>
+<text x="714" y="609" font-size="16" fill="black">+0.83</text>
+<rect x="822" y="590" width="142" height="26" fill="#f2d2cf"/>
+<text x="862" y="609" font-size="16" fill="black">+0.76</text>
+<rect x="970" y="590" width="142" height="26" fill="#fcf5f4"/>
+<text x="1010" y="609" font-size="16" fill="black">+0.17</text>
+<text x="25" y="637" font-size="16">Kentucky</text>
+<rect x="230" y="618" width="142" height="26" fill="#f2d2ce"/>
+<text x="270" y="637" font-size="16" fill="black">+0.77</text>
+<rect x="378" y="618" width="142" height="26" fill="#f3d4d1"/>
+<text x="418" y="637" font-size="16" fill="black">+0.72</text>
+<rect x="526" y="618" width="142" height="26" fill="#f1d0cc"/>
+<text x="566" y="637" font-size="16" fill="black">+0.80*</text>
+<rect x="674" y="618" width="142" height="26" fill="#eec3bf"/>
+<text x="714" y="637" font-size="16" fill="black">+1.02</text>
+<rect x="822" y="618" width="142" height="26" fill="#f4d9d6"/>
+<text x="862" y="637" font-size="16" fill="black">+0.64</text>
+<rect x="970" y="618" width="142" height="26" fill="#fefbfb"/>
+<text x="1010" y="637" font-size="16" fill="black">+0.06</text>
+<text x="25" y="665" font-size="16">Louisiana</text>
+<rect x="230" y="646" width="142" height="26" fill="#fbf0ef"/>
+<text x="270" y="665" font-size="16" fill="black">+0.25</text>
+<rect x="378" y="646" width="142" height="26" fill="#ebbab5"/>
+<text x="418" y="665" font-size="16" fill="black">+1.17</text>
+<rect x="526" y="646" width="142" height="26" fill="#f7f9fc"/>
+<text x="566" y="665" font-size="16" fill="black">-0.13</text>
+<rect x="674" y="646" width="142" height="26" fill="#f6e1df"/>
+<text x="714" y="665" font-size="16" fill="black">+0.51</text>
+<rect x="822" y="646" width="142" height="26" fill="#ecbcb7"/>
+<text x="862" y="665" font-size="16" fill="black">+1.14</text>
+<rect x="970" y="646" width="142" height="26" fill="#c9daea"/>
+<text x="1010" y="665" font-size="16" fill="black">-0.85</text>
+<text x="25" y="693" font-size="16">Maine</text>
+<rect x="230" y="674" width="142" height="26" fill="#f1cfcc"/>
+<text x="270" y="693" font-size="16" fill="black">+0.81</text>
+<rect x="378" y="674" width="142" height="26" fill="#f6f9fb"/>
+<text x="418" y="693" font-size="16" fill="black">-0.15</text>
+<rect x="526" y="674" width="142" height="26" fill="#e7ada7"/>
+<text x="566" y="693" font-size="16" fill="black">+1.39</text>
+<rect x="674" y="674" width="142" height="26" fill="#ecbbb6"/>
+<text x="714" y="693" font-size="16" fill="black">+1.14</text>
+<rect x="822" y="674" width="142" height="26" fill="#e6eef5"/>
+<text x="862" y="693" font-size="16" fill="black">-0.40</text>
+<rect x="970" y="674" width="142" height="26" fill="#faedec"/>
+<text x="1010" y="693" font-size="16" fill="black">+0.30</text>
+<text x="25" y="721" font-size="16">Maryland</text>
+<rect x="230" y="702" width="142" height="26" fill="#edc0bb"/>
+<text x="270" y="721" font-size="16" fill="black">+1.07</text>
+<rect x="378" y="702" width="142" height="26" fill="#eec3bf"/>
+<text x="418" y="721" font-size="16" fill="black">+1.01</text>
+<rect x="526" y="702" width="142" height="26" fill="#dd887f"/>
+<text x="566" y="721" font-size="16" fill="black">+2.02*</text>
+<rect x="674" y="702" width="142" height="26" fill="#e9b3ad"/>
+<text x="714" y="721" font-size="16" fill="black">+1.29</text>
+<rect x="822" y="702" width="142" height="26" fill="#eec5c0"/>
+<text x="862" y="721" font-size="16" fill="black">+0.99</text>
+<rect x="970" y="702" width="142" height="26" fill="#de8d85"/>
+<text x="1010" y="721" font-size="16" fill="black">+1.93*</text>
+<text x="25" y="749" font-size="16">Massachusetts</text>
+<rect x="230" y="730" width="142" height="26" fill="#f3d6d3"/>
+<text x="270" y="749" font-size="16" fill="black">+0.69</text>
+<rect x="378" y="730" width="142" height="26" fill="#f2d3d0"/>
+<text x="418" y="749" font-size="16" fill="black">+0.75</text>
+<rect x="526" y="730" width="142" height="26" fill="#e9b2ac"/>
+<text x="566" y="749" font-size="16" fill="black">+1.30*</text>
+<rect x="674" y="730" width="142" height="26" fill="#efc7c3"/>
+<text x="714" y="749" font-size="16" fill="black">+0.95</text>
+<rect x="822" y="730" width="142" height="26" fill="#f1ceca"/>
+<text x="862" y="749" font-size="16" fill="black">+0.83</text>
+<rect x="970" y="730" width="142" height="26" fill="#f8e8e7"/>
+<text x="1010" y="749" font-size="16" fill="black">+0.39</text>
+<text x="25" y="777" font-size="16">Michigan</text>
+<rect x="230" y="758" width="142" height="26" fill="#f6dedc"/>
+<text x="270" y="777" font-size="16" fill="black">+0.56</text>
+<rect x="378" y="758" width="142" height="26" fill="#f0f5f9"/>
+<text x="418" y="777" font-size="16" fill="black">-0.24</text>
+<rect x="526" y="758" width="142" height="26" fill="#f0ccc8"/>
+<text x="566" y="777" font-size="16" fill="black">+0.87*</text>
+<rect x="674" y="758" width="142" height="26" fill="#f3d4d1"/>
+<text x="714" y="777" font-size="16" fill="black">+0.73</text>
+<rect x="822" y="758" width="142" height="26" fill="#edf3f8"/>
+<text x="862" y="777" font-size="16" fill="black">-0.28</text>
+<rect x="970" y="758" width="142" height="26" fill="#f8e6e4"/>
+<text x="1010" y="777" font-size="16" fill="black">+0.43*</text>
+<text x="25" y="805" font-size="16">Minnesota</text>
+<rect x="230" y="786" width="142" height="26" fill="#eab7b1"/>
+<text x="270" y="805" font-size="16" fill="black">+1.23</text>
+<rect x="378" y="786" width="142" height="26" fill="#f5dedb"/>
+<text x="418" y="805" font-size="16" fill="black">+0.56</text>
+<rect x="526" y="786" width="142" height="26" fill="#eab6b0"/>
+<text x="566" y="805" font-size="16" fill="black">+1.24</text>
+<rect x="674" y="786" width="142" height="26" fill="#e39f98"/>
+<text x="714" y="805" font-size="16" fill="black">+1.63</text>
+<rect x="822" y="786" width="142" height="26" fill="#f9e9e7"/>
+<text x="862" y="805" font-size="16" fill="black">+0.38</text>
+<rect x="970" y="786" width="142" height="26" fill="#f3d4d1"/>
+<text x="1010" y="805" font-size="16" fill="black">+0.72*</text>
+<text x="25" y="833" font-size="16">Mississippi</text>
+<rect x="230" y="814" width="142" height="26" fill="#f3d6d2"/>
+<text x="270" y="833" font-size="16" fill="black">+0.70</text>
+<rect x="378" y="814" width="142" height="26" fill="#f8e7e6"/>
+<text x="418" y="833" font-size="16" fill="black">+0.40</text>
+<rect x="526" y="814" width="142" height="26" fill="#d4e2ef"/>
+<text x="566" y="833" font-size="16" fill="black">-0.67</text>
+<rect x="674" y="814" width="142" height="26" fill="#eec6c1"/>
+<text x="714" y="833" font-size="16" fill="black">+0.97*</text>
+<rect x="822" y="814" width="142" height="26" fill="#f8e6e4"/>
+<text x="862" y="833" font-size="16" fill="black">+0.42</text>
+<rect x="970" y="814" width="142" height="26" fill="#98bad7"/>
+<text x="1010" y="833" font-size="16" fill="black">-1.61*</text>
+<text x="25" y="861" font-size="16">Missouri</text>
+<rect x="230" y="842" width="142" height="26" fill="#f1cfcc"/>
+<text x="270" y="861" font-size="16" fill="black">+0.81</text>
+<rect x="378" y="842" width="142" height="26" fill="#f5dcda"/>
+<text x="418" y="861" font-size="16" fill="black">+0.59</text>
+<rect x="526" y="842" width="142" height="26" fill="#fbf1f0"/>
+<text x="566" y="861" font-size="16" fill="black">+0.24</text>
+<rect x="674" y="842" width="142" height="26" fill="#ebb8b3"/>
+<text x="714" y="861" font-size="16" fill="black">+1.20</text>
+<rect x="822" y="842" width="142" height="26" fill="#f7e3e1"/>
+<text x="862" y="861" font-size="16" fill="black">+0.47</text>
+<rect x="970" y="842" width="142" height="26" fill="#ebf2f7"/>
+<text x="1010" y="861" font-size="16" fill="black">-0.31</text>
+<text x="25" y="889" font-size="16">Montana</text>
+<rect x="230" y="870" width="142" height="26" fill="#f3d6d3"/>
+<text x="270" y="889" font-size="16" fill="black">+0.70</text>
+<rect x="378" y="870" width="142" height="26" fill="#f3d7d4"/>
+<text x="418" y="889" font-size="16" fill="black">+0.68</text>
+<rect x="526" y="870" width="142" height="26" fill="#e4a29b"/>
+<text x="566" y="889" font-size="16" fill="black">+1.58</text>
+<rect x="674" y="870" width="142" height="26" fill="#eec4bf"/>
+<text x="714" y="889" font-size="16" fill="black">+1.01</text>
+<rect x="822" y="870" width="142" height="26" fill="#f9e8e7"/>
+<text x="862" y="889" font-size="16" fill="black">+0.38</text>
+<rect x="970" y="870" width="142" height="26" fill="#fbefee"/>
+<text x="1010" y="889" font-size="16" fill="black">+0.26</text>
+<text x="25" y="917" font-size="16">Nebraska</text>
+<rect x="230" y="898" width="142" height="26" fill="#f6e0dd"/>
+<text x="270" y="917" font-size="16" fill="black">+0.53</text>
+<rect x="378" y="898" width="142" height="26" fill="#efc8c4"/>
+<text x="418" y="917" font-size="16" fill="black">+0.93</text>
+<rect x="526" y="898" width="142" height="26" fill="#e4a29b"/>
+<text x="566" y="917" font-size="16" fill="black">+1.58*</text>
+<rect x="674" y="898" width="142" height="26" fill="#f0cac6"/>
+<text x="714" y="917" font-size="16" fill="black">+0.90</text>
+<rect x="822" y="898" width="142" height="26" fill="#f1cfcb"/>
+<text x="862" y="917" font-size="16" fill="black">+0.82</text>
+<rect x="970" y="898" width="142" height="26" fill="#edc0bb"/>
+<text x="1010" y="917" font-size="16" fill="black">+1.07*</text>
+<text x="25" y="945" font-size="16">Nevada</text>
+<rect x="230" y="926" width="142" height="26" fill="#cc4e41"/>
+<text x="270" y="945" font-size="16" fill="black">+4.25</text>
+<rect x="378" y="926" width="142" height="26" fill="#f4d8d5"/>
+<text x="418" y="945" font-size="16" fill="black">+0.66</text>
+<rect x="526" y="926" width="142" height="26" fill="#f1cdca"/>
+<text x="566" y="945" font-size="16" fill="black">+0.84</text>
+<rect x="674" y="926" width="142" height="26" fill="#cc4e41"/>
+<text x="714" y="945" font-size="16" fill="black">+4.34</text>
+<rect x="822" y="926" width="142" height="26" fill="#f7e4e2"/>
+<text x="862" y="945" font-size="16" fill="black">+0.46</text>
+<rect x="970" y="926" width="142" height="26" fill="#f5dbd9"/>
+<text x="1010" y="945" font-size="16" fill="black">+0.60</text>
+<text x="25" y="973" font-size="16">New Hampshire</text>
+<rect x="230" y="954" width="142" height="26" fill="#e6a9a3"/>
+<text x="270" y="973" font-size="16" fill="black">+1.45</text>
+<rect x="378" y="954" width="142" height="26" fill="#fefcfc"/>
+<text x="418" y="973" font-size="16" fill="black">+0.05</text>
+<rect x="526" y="954" width="142" height="26" fill="#e9b2ac"/>
+<text x="566" y="973" font-size="16" fill="black">+1.31*</text>
+<rect x="674" y="954" width="142" height="26" fill="#e0928a"/>
+<text x="714" y="973" font-size="16" fill="black">+1.84</text>
+<rect x="822" y="954" width="142" height="26" fill="#fefcfc"/>
+<text x="862" y="973" font-size="16" fill="black">+0.05</text>
+<rect x="970" y="954" width="142" height="26" fill="#faeeed"/>
+<text x="1010" y="973" font-size="16" fill="black">+0.29</text>
+<text x="25" y="1001" font-size="16">New Jersey</text>
+<rect x="230" y="982" width="142" height="26" fill="#f1cdc9"/>
+<text x="270" y="1001" font-size="16" fill="black">+0.85</text>
+<rect x="378" y="982" width="142" height="26" fill="#f7e2df"/>
+<text x="418" y="1001" font-size="16" fill="black">+0.50</text>
+<rect x="526" y="982" width="142" height="26" fill="#cc4e41"/>
+<text x="566" y="1001" font-size="16" fill="black">+4.18*</text>
+<rect x="674" y="982" width="142" height="26" fill="#f0cbc7"/>
+<text x="714" y="1001" font-size="16" fill="black">+0.88</text>
+<rect x="822" y="982" width="142" height="26" fill="#f6e0dd"/>
+<text x="862" y="1001" font-size="16" fill="black">+0.53</text>
+<rect x="970" y="982" width="142" height="26" fill="#cc4e41"/>
+<text x="1010" y="1001" font-size="16" fill="black">+4.84*</text>
+<text x="25" y="1029" font-size="16">New Mexico</text>
+<rect x="230" y="1010" width="142" height="26" fill="#f3d4d1"/>
+<text x="270" y="1029" font-size="16" fill="black">+0.72</text>
+<rect x="378" y="1010" width="142" height="26" fill="#e8afa9"/>
+<text x="418" y="1029" font-size="16" fill="black">+1.36</text>
+<rect x="526" y="1010" width="142" height="26" fill="#f0cac7"/>
+<text x="566" y="1029" font-size="16" fill="black">+0.89*</text>
+<rect x="674" y="1010" width="142" height="26" fill="#efc8c4"/>
+<text x="714" y="1029" font-size="16" fill="black">+0.93</text>
+<rect x="822" y="1010" width="142" height="26" fill="#ebbab5"/>
+<text x="862" y="1029" font-size="16" fill="black">+1.17</text>
+<rect x="970" y="1010" width="142" height="26" fill="#f9eae9"/>
+<text x="1010" y="1029" font-size="16" fill="black">+0.35</text>
+<text x="25" y="1057" font-size="16">New York</text>
+<rect x="230" y="1038" width="142" height="26" fill="#f4dad7"/>
+<text x="270" y="1057" font-size="16" fill="black">+0.63</text>
+<rect x="378" y="1038" width="142" height="26" fill="#f7e3e1"/>
+<text x="418" y="1057" font-size="16" fill="black">+0.48</text>
+<rect x="526" y="1038" width="142" height="26" fill="#cc4e41"/>
+<text x="566" y="1057" font-size="16" fill="black">+3.33*</text>
+<rect x="674" y="1038" width="142" height="26" fill="#f3d5d2"/>
+<text x="714" y="1057" font-size="16" fill="black">+0.71</text>
+<rect x="822" y="1038" width="142" height="26" fill="#f6e1de"/>
+<text x="862" y="1057" font-size="16" fill="black">+0.51</text>
+<rect x="970" y="1038" width="142" height="26" fill="#cc4e41"/>
+<text x="1010" y="1057" font-size="16" fill="black">+3.96*</text>
+<text x="25" y="1085" font-size="16">North Carolina</text>
+<rect x="230" y="1066" width="142" height="26" fill="#e39e96"/>
+<text x="270" y="1085" font-size="16" fill="black">+1.65</text>
+<rect x="378" y="1066" width="142" height="26" fill="#e9b1ac"/>
+<text x="418" y="1085" font-size="16" fill="black">+1.31</text>
+<rect x="526" y="1066" width="142" height="26" fill="#e0eaf3"/>
+<text x="566" y="1085" font-size="16" fill="black">-0.49*</text>
+<rect x="674" y="1066" width="142" height="26" fill="#e29b94"/>
+<text x="714" y="1085" font-size="16" fill="black">+1.69</text>
+<rect x="822" y="1066" width="142" height="26" fill="#eab7b2"/>
+<text x="862" y="1085" font-size="16" fill="black">+1.22</text>
+<rect x="970" y="1066" width="142" height="26" fill="#a8c5dd"/>
+<text x="1010" y="1085" font-size="16" fill="black">-1.36*</text>
+<text x="25" y="1113" font-size="16">North Dakota</text>
+<rect x="230" y="1094" width="142" height="26" fill="#e9f0f6"/>
+<text x="270" y="1113" font-size="16" fill="black">-0.35</text>
+<rect x="378" y="1094" width="142" height="26" fill="#e6a9a2"/>
+<text x="418" y="1113" font-size="16" fill="black">+1.46</text>
+<rect x="526" y="1094" width="142" height="26" fill="#dc867d"/>
+<text x="566" y="1113" font-size="16" fill="black">+2.06*</text>
+<rect x="674" y="1094" width="142" height="26" fill="#fafcfd"/>
+<text x="714" y="1113" font-size="16" fill="black">-0.07</text>
+<rect x="822" y="1094" width="142" height="26" fill="#e6aaa3"/>
+<text x="862" y="1113" font-size="16" fill="black">+1.45</text>
+<rect x="970" y="1094" width="142" height="26" fill="#dd8880"/>
+<text x="1010" y="1113" font-size="16" fill="black">+2.01*</text>
+<text x="25" y="1141" font-size="16">Ohio</text>
+<rect x="230" y="1122" width="142" height="26" fill="#fbf0ef"/>
+<text x="270" y="1141" font-size="16" fill="black">+0.25</text>
+<rect x="378" y="1122" width="142" height="26" fill="#fdfaf9"/>
+<text x="418" y="1141" font-size="16" fill="black">+0.09</text>
+<rect x="526" y="1122" width="142" height="26" fill="#f0ccc8"/>
+<text x="566" y="1141" font-size="16" fill="black">+0.87*</text>
+<rect x="674" y="1122" width="142" height="26" fill="#f8e7e5"/>
+<text x="714" y="1141" font-size="16" fill="black">+0.40</text>
+<rect x="822" y="1122" width="142" height="26" fill="#fdf9f8"/>
+<text x="862" y="1141" font-size="16" fill="black">+0.11</text>
+<rect x="970" y="1122" width="142" height="26" fill="#fdfaf9"/>
+<text x="1010" y="1141" font-size="16" fill="black">+0.09</text>
+<text x="25" y="1169" font-size="16">Oklahoma</text>
+<rect x="230" y="1150" width="142" height="26" fill="#f7e2df"/>
+<text x="270" y="1169" font-size="16" fill="black">+0.50</text>
+<rect x="378" y="1150" width="142" height="26" fill="#ecbcb7"/>
+<text x="418" y="1169" font-size="16" fill="black">+1.14</text>
+<rect x="526" y="1150" width="142" height="26" fill="#fdf8f8"/>
+<text x="566" y="1169" font-size="16" fill="black">+0.12</text>
+<rect x="674" y="1150" width="142" height="26" fill="#f2d2cf"/>
+<text x="714" y="1169" font-size="16" fill="black">+0.76</text>
+<rect x="822" y="1150" width="142" height="26" fill="#f0cac6"/>
+<text x="862" y="1169" font-size="16" fill="black">+0.90</text>
+<rect x="970" y="1150" width="142" height="26" fill="#e0eaf3"/>
+<text x="1010" y="1169" font-size="16" fill="black">-0.49</text>
+<text x="25" y="1197" font-size="16">Oregon</text>
+<rect x="230" y="1178" width="142" height="26" fill="#edc1bd"/>
+<text x="270" y="1197" font-size="16" fill="black">+1.05</text>
+<rect x="378" y="1178" width="142" height="26" fill="#f2d2cf"/>
+<text x="418" y="1197" font-size="16" fill="black">+0.76</text>
+<rect x="526" y="1178" width="142" height="26" fill="#f4d9d6"/>
+<text x="566" y="1197" font-size="16" fill="black">+0.65</text>
+<rect x="674" y="1178" width="142" height="26" fill="#e9b2ac"/>
+<text x="714" y="1197" font-size="16" fill="black">+1.30</text>
+<rect x="822" y="1178" width="142" height="26" fill="#f6e0de"/>
+<text x="862" y="1197" font-size="16" fill="black">+0.52</text>
+<rect x="970" y="1178" width="142" height="26" fill="#eaf1f7"/>
+<text x="1010" y="1197" font-size="16" fill="black">-0.33</text>
+<text x="25" y="1225" font-size="16">Pennsylvania</text>
+<rect x="230" y="1206" width="142" height="26" fill="#fcf5f4"/>
+<text x="270" y="1225" font-size="16" fill="black">+0.17</text>
+<rect x="378" y="1206" width="142" height="26" fill="#f9eae9"/>
+<text x="418" y="1225" font-size="16" fill="black">+0.35</text>
+<rect x="526" y="1206" width="142" height="26" fill="#e5a59e"/>
+<text x="566" y="1225" font-size="16" fill="black">+1.53*</text>
+<rect x="674" y="1206" width="142" height="26" fill="#f8e5e3"/>
+<text x="714" y="1225" font-size="16" fill="black">+0.44</text>
+<rect x="822" y="1206" width="142" height="26" fill="#f7e5e3"/>
+<text x="862" y="1225" font-size="16" fill="black">+0.44</text>
+<rect x="970" y="1206" width="142" height="26" fill="#edc0bc"/>
+<text x="1010" y="1225" font-size="16" fill="black">+1.06*</text>
+<text x="25" y="1253" font-size="16">Rhode Island</text>
+<rect x="230" y="1234" width="142" height="26" fill="#efc7c3"/>
+<text x="270" y="1253" font-size="16" fill="black">+0.94</text>
+<rect x="378" y="1234" width="142" height="26" fill="#fefdfd"/>
+<text x="418" y="1253" font-size="16" fill="black">+0.03</text>
+<rect x="526" y="1234" width="142" height="26" fill="#cc4e41"/>
+<text x="566" y="1253" font-size="16" fill="black">+3.56*</text>
+<rect x="674" y="1234" width="142" height="26" fill="#e7ada7"/>
+<text x="714" y="1253" font-size="16" fill="black">+1.39</text>
+<rect x="822" y="1234" width="142" height="26" fill="#fdf9f9"/>
+<text x="862" y="1253" font-size="16" fill="black">+0.10</text>
+<rect x="970" y="1234" width="142" height="26" fill="#cd5245"/>
+<text x="1010" y="1253" font-size="16" fill="black">+2.94*</text>
+<text x="25" y="1281" font-size="16">South Carolina</text>
+<rect x="230" y="1262" width="142" height="26" fill="#eab6b1"/>
+<text x="270" y="1281" font-size="16" fill="black">+1.24</text>
+<rect x="378" y="1262" width="142" height="26" fill="#eec4c0"/>
+<text x="418" y="1281" font-size="16" fill="black">+1.00</text>
+<rect x="526" y="1262" width="142" height="26" fill="#dfeaf3"/>
+<text x="566" y="1281" font-size="16" fill="black">-0.50*</text>
+<rect x="674" y="1262" width="142" height="26" fill="#e6a9a3"/>
+<text x="714" y="1281" font-size="16" fill="black">+1.46</text>
+<rect x="822" y="1262" width="142" height="26" fill="#f2d4d0"/>
+<text x="862" y="1281" font-size="16" fill="black">+0.74</text>
+<rect x="970" y="1262" width="142" height="26" fill="#87aed0"/>
+<text x="1010" y="1281" font-size="16" fill="black">-1.89*</text>
+<text x="25" y="1309" font-size="16">South Dakota</text>
+<rect x="230" y="1290" width="142" height="26" fill="#f3d4d1"/>
+<text x="270" y="1309" font-size="16" fill="black">+0.72</text>
+<rect x="378" y="1290" width="142" height="26" fill="#ecbdb8"/>
+<text x="418" y="1309" font-size="16" fill="black">+1.12</text>
+<rect x="526" y="1290" width="142" height="26" fill="#fefafa"/>
+<text x="566" y="1309" font-size="16" fill="black">+0.08*</text>
+<rect x="674" y="1290" width="142" height="26" fill="#eab6b1"/>
+<text x="714" y="1309" font-size="16" fill="black">+1.24</text>
+<rect x="822" y="1290" width="142" height="26" fill="#efc7c3"/>
+<text x="862" y="1309" font-size="16" fill="black">+0.95</text>
+<rect x="970" y="1290" width="142" height="26" fill="#c9dbea"/>
+<text x="1010" y="1309" font-size="16" fill="black">-0.84*</text>
+<text x="25" y="1337" font-size="16">Tennessee</text>
+<rect x="230" y="1318" width="142" height="26" fill="#ecbbb6"/>
+<text x="270" y="1337" font-size="16" fill="black">+1.15</text>
+<rect x="378" y="1318" width="142" height="26" fill="#f2d1cd"/>
+<text x="418" y="1337" font-size="16" fill="black">+0.78</text>
+<rect x="526" y="1318" width="142" height="26" fill="#e7aba5"/>
+<text x="566" y="1337" font-size="16" fill="black">+1.42</text>
+<rect x="674" y="1318" width="142" height="26" fill="#ebb9b4"/>
+<text x="714" y="1337" font-size="16" fill="black">+1.19</text>
+<rect x="822" y="1318" width="142" height="26" fill="#f4dad7"/>
+<text x="862" y="1337" font-size="16" fill="black">+0.63</text>
+<rect x="970" y="1318" width="142" height="26" fill="#f0cac6"/>
+<text x="1010" y="1337" font-size="16" fill="black">+0.90</text>
+<text x="25" y="1365" font-size="16">Texas</text>
+<rect x="230" y="1346" width="142" height="26" fill="#df9189"/>
+<text x="270" y="1365" font-size="16" fill="black">+1.86</text>
+<rect x="378" y="1346" width="142" height="26" fill="#e19790"/>
+<text x="418" y="1365" font-size="16" fill="black">+1.76</text>
+<rect x="526" y="1346" width="142" height="26" fill="#f0ccc8"/>
+<text x="566" y="1365" font-size="16" fill="black">+0.86</text>
+<rect x="674" y="1346" width="142" height="26" fill="#da7e75"/>
+<text x="714" y="1365" font-size="16" fill="black">+2.18</text>
+<rect x="822" y="1346" width="142" height="26" fill="#e29c94"/>
+<text x="862" y="1365" font-size="16" fill="black">+1.68</text>
+<rect x="970" y="1346" width="142" height="26" fill="#f6e0de"/>
+<text x="1010" y="1365" font-size="16" fill="black">+0.52*</text>
+<text x="25" y="1393" font-size="16">Utah</text>
+<rect x="230" y="1374" width="142" height="26" fill="#e0928a"/>
+<text x="270" y="1393" font-size="16" fill="black">+1.84</text>
+<rect x="378" y="1374" width="142" height="26" fill="#df8f87"/>
+<text x="418" y="1393" font-size="16" fill="black">+1.89</text>
+<rect x="526" y="1374" width="142" height="26" fill="#d56c62"/>
+<text x="566" y="1393" font-size="16" fill="black">+2.48*</text>
+<rect x="674" y="1374" width="142" height="26" fill="#dc857c"/>
+<text x="714" y="1393" font-size="16" fill="black">+2.07</text>
+<rect x="822" y="1374" width="142" height="26" fill="#e29c94"/>
+<text x="862" y="1393" font-size="16" fill="black">+1.68</text>
+<rect x="970" y="1374" width="142" height="26" fill="#d77369"/>
+<text x="1010" y="1393" font-size="16" fill="black">+2.37</text>
+<text x="25" y="1421" font-size="16">Vermont</text>
+<rect x="230" y="1402" width="142" height="26" fill="#f1cfcc"/>
+<text x="270" y="1421" font-size="16" fill="black">+0.81</text>
+<rect x="378" y="1402" width="142" height="26" fill="#fcf5f4"/>
+<text x="418" y="1421" font-size="16" fill="black">+0.17</text>
+<rect x="526" y="1402" width="142" height="26" fill="#cc4f42"/>
+<text x="566" y="1421" font-size="16" fill="black">+2.99*</text>
+<rect x="674" y="1402" width="142" height="26" fill="#ecbeba"/>
+<text x="714" y="1421" font-size="16" fill="black">+1.09</text>
+<rect x="822" y="1402" width="142" height="26" fill="#fdfefe"/>
+<text x="862" y="1421" font-size="16" fill="black">-0.03</text>
+<rect x="970" y="1402" width="142" height="26" fill="#df8f86"/>
+<text x="1010" y="1421" font-size="16" fill="black">+1.90*</text>
+<text x="25" y="1449" font-size="16">Virginia</text>
+<rect x="230" y="1430" width="142" height="26" fill="#e6a7a0"/>
+<text x="270" y="1449" font-size="16" fill="black">+1.50</text>
+<rect x="378" y="1430" width="142" height="26" fill="#eab6b1"/>
+<text x="418" y="1449" font-size="16" fill="black">+1.23</text>
+<rect x="526" y="1430" width="142" height="26" fill="#efc8c4"/>
+<text x="566" y="1449" font-size="16" fill="black">+0.94</text>
+<rect x="674" y="1430" width="142" height="26" fill="#e29b94"/>
+<text x="714" y="1449" font-size="16" fill="black">+1.69</text>
+<rect x="822" y="1430" width="142" height="26" fill="#ecbeba"/>
+<text x="862" y="1449" font-size="16" fill="black">+1.09</text>
+<rect x="970" y="1430" width="142" height="26" fill="#f7e4e2"/>
+<text x="1010" y="1449" font-size="16" fill="black">+0.45</text>
+<text x="25" y="1477" font-size="16">Washington</text>
+<rect x="230" y="1458" width="142" height="26" fill="#ebbbb6"/>
+<text x="270" y="1477" font-size="16" fill="black">+1.16</text>
+<rect x="378" y="1458" width="142" height="26" fill="#ecbcb8"/>
+<text x="418" y="1477" font-size="16" fill="black">+1.13</text>
+<rect x="526" y="1458" width="142" height="26" fill="#e6a8a2"/>
+<text x="566" y="1477" font-size="16" fill="black">+1.47</text>
+<rect x="674" y="1458" width="142" height="26" fill="#e7aca6"/>
+<text x="714" y="1477" font-size="16" fill="black">+1.40</text>
+<rect x="822" y="1458" width="142" height="26" fill="#f1d0cc"/>
+<text x="862" y="1477" font-size="16" fill="black">+0.80</text>
+<rect x="970" y="1458" width="142" height="26" fill="#f1cecb"/>
+<text x="1010" y="1477" font-size="16" fill="black">+0.82</text>
+<text x="25" y="1505" font-size="16">West Virginia</text>
+<rect x="230" y="1486" width="142" height="26" fill="#eef4f8"/>
+<text x="270" y="1505" font-size="16" fill="black">-0.26</text>
+<rect x="378" y="1486" width="142" height="26" fill="#f9eae9"/>
+<text x="418" y="1505" font-size="16" fill="black">+0.35</text>
+<rect x="526" y="1486" width="142" height="26" fill="#f2f6fa"/>
+<text x="566" y="1505" font-size="16" fill="black">-0.20</text>
+<rect x="674" y="1486" width="142" height="26" fill="#f9fbfc"/>
+<text x="714" y="1505" font-size="16" fill="black">-0.10</text>
+<rect x="822" y="1486" width="142" height="26" fill="#faedeb"/>
+<text x="862" y="1505" font-size="16" fill="black">+0.31</text>
+<rect x="970" y="1486" width="142" height="26" fill="#e9f0f7"/>
+<text x="1010" y="1505" font-size="16" fill="black">-0.34</text>
+<text x="25" y="1533" font-size="16">Wisconsin</text>
+<rect x="230" y="1514" width="142" height="26" fill="#f2d1ce"/>
+<text x="270" y="1533" font-size="16" fill="black">+0.77</text>
+<rect x="378" y="1514" width="142" height="26" fill="#f9e9e7"/>
+<text x="418" y="1533" font-size="16" fill="black">+0.37</text>
+<rect x="526" y="1514" width="142" height="26" fill="#eab6b0"/>
+<text x="566" y="1533" font-size="16" fill="black">+1.24*</text>
+<rect x="674" y="1514" width="142" height="26" fill="#edc1bd"/>
+<text x="714" y="1533" font-size="16" fill="black">+1.05</text>
+<rect x="822" y="1514" width="142" height="26" fill="#faefee"/>
+<text x="862" y="1533" font-size="16" fill="black">+0.28</text>
+<rect x="970" y="1514" width="142" height="26" fill="#faefee"/>
+<text x="1010" y="1533" font-size="16" fill="black">+0.27</text>
+<text x="25" y="1561" font-size="16">Wyoming</text>
+<rect x="230" y="1542" width="142" height="26" fill="#f6e1df"/>
+<text x="270" y="1561" font-size="16" fill="black">+0.51</text>
+<rect x="378" y="1542" width="142" height="26" fill="#f1ceca"/>
+<text x="418" y="1561" font-size="16" fill="black">+0.83</text>
+<rect x="526" y="1542" width="142" height="26" fill="#e4edf5"/>
+<text x="566" y="1561" font-size="16" fill="black">-0.42</text>
+<rect x="674" y="1542" width="142" height="26" fill="#efc7c3"/>
+<text x="714" y="1561" font-size="16" fill="black">+0.94</text>
+<rect x="822" y="1542" width="142" height="26" fill="#f8e7e5"/>
+<text x="862" y="1561" font-size="16" fill="black">+0.41</text>
+<rect x="970" y="1542" width="142" height="26" fill="#95b7d6"/>
+<text x="1010" y="1561" font-size="16" fill="black">-1.67</text>
+</g></svg>

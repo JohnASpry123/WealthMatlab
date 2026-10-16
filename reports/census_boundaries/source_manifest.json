@@ -1,0 +1,79 @@
+[
+  {
+    "file": "stch-icen1997.txt",
+    "url": "https://www2.census.gov/programs-surveys/popest/tables/1990-2000/intercensal/st-co/stch-icen1997.txt",
+    "sha256": "dee74e42ecac307ba5442fbedeb2d3ac7e98738b74a17d5b4a7b6733cd0d36a4",
+    "analysis_years": [
+      1997
+    ],
+    "overlap_year": null
+  },
+  {
+    "file": "stch-icen1998.txt",
+    "url": "https://www2.census.gov/programs-surveys/popest/tables/1990-2000/intercensal/st-co/stch-icen1998.txt",
+    "sha256": "7ccb805361381b6f3bbbe38e8c2ae15b8217a7a4440102ce341e7d475f7a6727",
+    "analysis_years": [
+      1998
+    ],
+    "overlap_year": null
+  },
+  {
+    "file": "stch-icen1999.txt",
+    "url": "https://www2.census.gov/programs-surveys/popest/tables/1990-2000/intercensal/st-co/stch-icen1999.txt",
+    "sha256": "3779df9cf70b6582d3e8d1b8e628b465e0d18e5d1d5d10ca4d873191e7fcfd27",
+    "analysis_years": [
+      1999
+    ],
+    "overlap_year": null
+  },
+  {
+    "file": "st-est00int-agesex.csv",
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2000-2010/intercensal/state/st-est00int-agesex.csv",
+    "sha256": "766020c61a2af5b533718506c07ac1fc27637bb4f83f752645ec1798719d6c55",
+    "analysis_years": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009
+    ],
+    "overlap_year": 2010
+  },
+  {
+    "file": "SC-EST2020-ALLDATA6.csv",
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/asrh/SC-EST2020-ALLDATA6.csv",
+    "sha256": "78731407b72e3221696ac6a346871c5a32c725255943d77dc75db143442a9f5a",
+    "analysis_years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "overlap_year": 2020
+  },
+  {
+    "file": "sc-est2025-alldata6.csv",
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/asrh/sc-est2025-alldata6.csv",
+    "sha256": "505fd45bfb15b96c0da1d67cf54d47b3b4cb8765a7814de6e0629dabd13258aa",
+    "analysis_years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "overlap_year": null
+  }
+]
