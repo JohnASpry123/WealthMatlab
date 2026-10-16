@@ -10,6 +10,11 @@ if nargin<5, offline=false; end
 years=usstates.years(startYear,endYear);
 assert(endYear<=2025,'usstates:Vintage','Pinned Census sources end in 2025. Review new vintages explicitly.');
 validateattributes(offline,{'logical'},{'scalar'});
+beaName=sprintf('bea_SAGDP9N_1_%d_%d.json',startYear,endYear);
+if ~offline && ~isfile(fullfile(cacheDir,beaName))
+    assert(~isempty(getenv('BEA_API_KEY')),'usstates:BEAKey', ...
+        'Set an active BEA_API_KEY before downloading source files.');
+end
 population=table(); sources={};
 base='https://www2.census.gov/programs-surveys/popest/';
 for y=years(years<2000)'
@@ -31,7 +36,7 @@ for i=1:size(spec,1)
     sources{end+1}=rec; %#ok<AGROW>
 end
 % All years included in the BEA request (July 8 correction preserved).
-name=sprintf('bea_SAGDP9N_1_%d_%d.json',startYear,endYear);
+name=beaName;
 [file,rec]=usstates.cachedDownload('https://apps.bea.gov/api/data', ...
     fullfile(cacheDir,name),offline,years);
 gdp=usstates.parseBEA(jsondecode(fileread(file)),years);

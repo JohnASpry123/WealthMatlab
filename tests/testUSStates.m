@@ -2,6 +2,12 @@ function tests = testUSStates
 tests = functiontests(localfunctions);
 end
 
+function setupOnce(t)
+% The test runner changes into tests/, so explicitly expose the repo root.
+t.applyFixture(matlab.unittest.fixtures.PathFixture( ...
+    fileparts(fileparts(mfilename('fullpath')))));
+end
+
 function testGrowthIsolation(t)
 verifyEqual(t,growth([100;110;99]),[.1;-.1],'AbsTol',1e-14);
 verifyEqual(t,usstates.logGrowth([100 110 99]),[log(1.1);log(.9)],'AbsTol',1e-14);
