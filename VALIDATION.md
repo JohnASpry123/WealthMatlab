@@ -8,7 +8,7 @@
 - BEA's endpoint was reachable. A probe using the PR's old `sampleUser` value returned API error 4 (inactive UserID). Successful live GDP acquisition was therefore **not** verified. No economic rankings are claimed from synthetic data.
 - `git diff --check` against main passed.
 
-## MATLAB tests supplied
+## MATLAB tests — passed on GitHub Actions
 
 `tests/testUSStates.m` has 17 offline tests covering:
 
@@ -19,7 +19,9 @@
 - MAT version/coverage checks, one-year sample rejection, checksum validation and cache tampering.
 - Full offline builder → saved dataset → reload → analysis using artificial source fixtures, nested output directories, CSV/MAT/metadata exports, and all three plots.
 
-MATLAB and Octave are absent from this local environment. A GitHub Actions workflow is included to run the Python guards and all offline MATLAB tests on R2024b. **Check the PR's Actions result before treating the MATLAB suite as passed.** Static parsing and Python source audits do not replace MATLAB execution. Octave compatibility is not claimed (the pipeline uses MATLAB tables, datetime, JSON, JVM hashing and plotting).
+All **17 offline MATLAB tests passed on R2024b**, together with the two Python guards, in [GitHub Actions run 38853218957](https://github.com/JohnASpry123/WealthMatlab/actions/runs/38853218957) at code commit `623e362ecc624d12366003f564474e14015bb289`. Earlier CI runs exposed and led to fixes for test-path setup and synthetic BEA struct initialization. This final run executed the builder, parsers, calculations, cache checks, exports and graphics using synthetic fixtures.
+
+MATLAB and Octave remain absent locally; MATLAB execution was provided by GitHub Actions. Octave compatibility is not claimed (the pipeline uses MATLAB tables, datetime, JSON, JVM hashing and plotting). The six-file live Census audit above was run independently in Python; full live MATLAB acquisition still requires a registered BEA key.
 
 ## Commands and remaining live checks
 
