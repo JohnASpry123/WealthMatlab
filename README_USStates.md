@@ -45,7 +45,7 @@ Total and working-age populations always come from **the same resident-populatio
 
 The parser verifies a complete age-by-race grid for every included state. It excludes non-state geographies by a fixed numeric FIPS list and joins GDP and population by FIPS/year, never by display names. ALLDATA5 race-in-combination counts must **not** be substituted: those race categories overlap.
 
-**Vintage boundaries:** the series combines intercensal estimates with postcensal vintages. Changes across 1999/2000, 2009/2010 and especially 2019/2020 can include revision/base effects. This is a documented splice, not a claim of one harmonized Census vintage. Before publication, inspect boundary growth rates and compare rankings within each vintage segment (e.g., 2010–2019 and 2020–2025) and with alternative Census intercensal releases. No automatic smoothing hides those breaks.
+**Vintage boundaries:** the series combines intercensal estimates with postcensal vintages. Changes across 1999/2000, 2009/2010 and especially 2019/2020 can include revision/base effects. This is a documented splice, not a claim of one harmonized Census vintage. The reproducible [Census boundary audit](CENSUS_BOUNDARY_AUDIT.md) measures annual changes and same-year overlap revisions, with committed diagnostic tables and graphics. It finds large 2019/2020 release effects. Full-period mean log growth is unchanged by interior-only edits with fixed endpoints; this does not establish endpoint comparability. Before publication, validate GDP and compare Census-consistent segments and alternative intercensal releases. No automatic smoothing hides those breaks.
 
 Official source documentation:
 
@@ -86,3 +86,7 @@ Raw files have SHA-256 sidecars with URL and retrieval time. Existing caches are
 ## Tests
 
 See [VALIDATION.md](VALIDATION.md). Synthetic fixtures are deliberately artificial and must never be presented as economic findings. Offline tests cover source parsers, demographic boundaries, missing/duplicate keys, GDP units, growth identities, ties, loading, cache tampering, complete offline construction and output/plot generation. Original-model reproduction still needs the original inputs and plotting code described in [README.md](README.md).
+
+## Census-only vintage audit
+
+Run `python scripts/audit_census_boundaries.py /path/to/census-cache` after the documented source downloads. This offline audit requires no BEA key and exports the complete population panel, annual changes, 300 boundary diagnostics, a summary, source hashes and two SVG graphics. See [findings, methods, limitations and reproduction commands](CENSUS_BOUNDARY_AUDIT.md). The committed `reports/census_boundaries/` snapshot is an explicit exception to the generated-output exclusion above.

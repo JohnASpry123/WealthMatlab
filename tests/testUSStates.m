@@ -237,3 +237,32 @@ end
 function [folder,c]=tempFolder()
 folder=tempname; mkdir(folder); c=onCleanup(@() rmdir(folder,'s'));
 end
+
+function testCensusAuditSnapshotGrowth(t)
+root=fileparts(fileparts(mfilename('fullpath')));
+p=readtable(fullfile(root,'reports','census_boundaries','population_panel.csv'));
+a=readtable(fullfile(root,'reports','census_boundaries','annual_changes.csv'));
+[fips,~]=usstates.states();
+verifyEqual(t,height(p),1450);
+verifyEqual(t,height(a),2800);
+for i=1:numel(fips)
+    s=sortrows(p(p.fips==fips(i),:),'year');
+    verifyEqual(t,s.year,(1997:2025)');
+    for metric={'total','working_age'}
+        name=metric{1};
+        r=sortrows(a(a.fips==fips(i) & strcmp(a.metric,name),:),'year');
+        verifyEqual(t,100*usstates.logGrowth(s.(name)), ...
+            r.log_percentage_points,'AbsTol',1e-10);
+    end
+end
+end
+
+function testInteriorSpliceTelescopes(t)
+x=[100;110;120;130;140]; z=[100;110;180;130;140];
+verifyEqual(t,mean(usstates.logGrowth(x)),mean(usstates.logGrowth(z)),'AbsTol',1e-14);
+verifyGreaterThan(t,abs(mean(growth(x))-mean(growth(z))),1e-4);
+verifyGreaterThan(t,abs(mean(usstates.logGrowth(x(1:3)))- ...
+    mean(usstates.logGrowth(z(1:3)))),1e-4);
+z(end)=z(end)*1.1;
+verifyEqual(t,mean(usstates.logGrowth(z))-mean(usstates.logGrowth(x)),log(1.1)/4,'AbsTol',1e-14);
+end

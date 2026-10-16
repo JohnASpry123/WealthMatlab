@@ -52,3 +52,7 @@ Main_USStates(1997,2025);
 The live MATLAB run must establish that the full BEA 1997–2025 sample is released and has the expected units/schema, validate source parsing in MATLAB, and compare exported numerical summaries across online/offline reruns. Archive the code commit, raw inputs and sidecars, dataset, and outputs. Use fresh cache/output directories for revised releases. Separately review Census vintage-boundary sensitivity before interpreting full-period rankings.
 
 The original model still requires its missing WDI/PWT workbooks, Optimization Toolbox and the absent `PlotPaper.m` implementation for full paper-level reproduction; these are pre-existing gaps documented in `README.md`. Its code is preserved independently of all new state dependencies. No original numerical simulation or paper-figure reproduction is claimed here.
+
+## Census vintage-boundary extension
+
+See [CENSUS_BOUNDARY_AUDIT.md](CENSUS_BOUNDARY_AUDIT.md). All six raw-file hashes match the earlier October 16 audit. The offline audit produced 1,450 state-years, 2,800 annual-change rows and 300 boundary diagnostic rows, including 200 same-year overlap decompositions. Ten Python regression tests pass locally (eight new audit tests plus the two preservation guards). Two additional MATLAB tests cross-check the committed annual changes against `usstates.logGrowth` and verify fixed-endpoint telescoping, bringing the MATLAB suite to 19 tests. MATLAB CI status for this extension is recorded in the PR. No live BEA acquisition or economic ranking validation is claimed.

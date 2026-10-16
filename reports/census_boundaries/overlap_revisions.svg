@@ -1,0 +1,277 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="820" viewBox="0 0 1180 820">
+<rect width="100%" height="100%" fill="white"/><g font-family="Arial, sans-serif" fill="#172b4d">
+<text x="25" y="35" font-size="25">How much of the boundary change is a release revision?</text>
+<text x="25" y="63" font-size="16">Each dot is a state. Same-year revisions compare July 1 counts; they are not annual demographic growth.</text>
+<text x="95" y="110" font-size="20">2010: Total population</text>
+<path d="M 95.0 130 V 365 M 95 365.0 H 535" stroke="#ccd2da" fill="none"/>
+<text x="83.0" y="385" font-size="13">-3</text>
+<text x="57" y="370.0" font-size="13">-3</text>
+<path d="M 315.0 130 V 365 M 95 247.5 H 535" stroke="#ccd2da" fill="none"/>
+<text x="303.0" y="385" font-size="13">+0</text>
+<text x="57" y="252.5" font-size="13">+0</text>
+<path d="M 535.0 130 V 365 M 95 130.0 H 535" stroke="#ccd2da" fill="none"/>
+<text x="523.0" y="385" font-size="13">+3</text>
+<text x="57" y="135.0" font-size="13">+3</text>
+<text x="180" y="408" font-size="15">Observed annual change (log pp)</text>
+<text transform="translate(43,355) rotate(-90)" font-size="15">Same-year revision (log pp)</text>
+<circle cx="357.3797516484309" cy="247.32321249228525" r="4" fill="#2166ac" opacity="0.75"><title>Alabama</title></circle>
+<circle cx="471.61972758356893" cy="247.51645696294128" r="4" fill="#2166ac" opacity="0.75"><title>Alaska</title></circle>
+<circle cx="388.8349279020018" cy="251.40717277547145" r="4" fill="#2166ac" opacity="0.75"><title>Arizona</title></circle>
+<circle cx="378.4047739651152" cy="246.97452519519265" r="4" fill="#2166ac" opacity="0.75"><title>Arkansas</title></circle>
+<circle cx="385.7506773855795" cy="250.62760919763792" r="4" fill="#2166ac" opacity="0.75"><title>California</title></circle>
+<circle cx="425.28897192872677" cy="248.688583768093" r="4" fill="#2166ac" opacity="0.75"><title>Colorado</title></circle>
+<circle cx="350.6676304147881" cy="245.201308692828" r="4" fill="#2166ac" opacity="0.75"><title>Connecticut</title></circle>
+<circle cx="379.81983189605126" cy="248.03109823861246" r="4" fill="#2166ac" opacity="0.75"><title>Delaware</title></circle>
+<circle cx="390.6827286917948" cy="246.91451814985498" r="4" fill="#2166ac" opacity="0.75"><title>Florida</title></circle>
+<circle cx="384.31137587768916" cy="247.65243403330328" r="4" fill="#2166ac" opacity="0.75"><title>Georgia</title></circle>
+<circle cx="408.534562910738" cy="246.40008095453595" r="4" fill="#2166ac" opacity="0.75"><title>Hawaii</title></circle>
+<circle cx="391.8711574598346" cy="249.07301408624556" r="4" fill="#2166ac" opacity="0.75"><title>Idaho</title></circle>
+<circle cx="340.03836393525586" cy="248.29938474381447" r="4" fill="#2166ac" opacity="0.75"><title>Illinois</title></circle>
+<circle cx="350.3702804941518" cy="247.53982690012114" r="4" fill="#2166ac" opacity="0.75"><title>Indiana</title></circle>
+<circle cx="358.27189700761664" cy="246.29817108628947" r="4" fill="#2166ac" opacity="0.75"><title>Iowa</title></circle>
+<circle cx="380.87837480246515" cy="248.7371806690964" r="4" fill="#2166ac" opacity="0.75"><title>Kansas</title></circle>
+<circle cx="368.12868980258935" cy="245.51975828652087" r="4" fill="#2166ac" opacity="0.75"><title>Kentucky</title></circle>
+<circle cx="401.00345673052203" cy="247.14922271698956" r="4" fill="#2166ac" opacity="0.75"><title>Louisiana</title></circle>
+<circle cx="304.29766938180194" cy="247.2521860727746" r="4" fill="#2166ac" opacity="0.75"><title>Maine</title></circle>
+<circle cx="389.35274026233276" cy="245.60371972714154" r="4" fill="#2166ac" opacity="0.75"><title>Maryland</title></circle>
+<circle cx="369.73324341495277" cy="242.01701542633637" r="4" fill="#2166ac" opacity="0.75"><title>Massachusetts</title></circle>
+<path d="M 237 146 L 369.73324341495277 242.01701542633637" stroke="#8b99aa" fill="none"/>
+<text x="107" y="150" font-size="12">Massachusetts</text>
+<circle cx="297.2079565336978" cy="247.4908800249484" r="4" fill="#2166ac" opacity="0.75"><title>Michigan</title></circle>
+<circle cx="356.1678787619763" cy="247.2418761924933" r="4" fill="#2166ac" opacity="0.75"><title>Minnesota</title></circle>
+<circle cx="344.2893974175297" cy="246.73653148209473" r="4" fill="#2166ac" opacity="0.75"><title>Mississippi</title></circle>
+<circle cx="357.93232978075724" cy="247.59275380688507" r="4" fill="#2166ac" opacity="0.75"><title>Missouri</title></circle>
+<circle cx="365.11923354202946" cy="248.16410042810918" r="4" fill="#2166ac" opacity="0.75"><title>Montana</title></circle>
+<circle cx="383.0854272198784" cy="249.29352392829546" r="4" fill="#2166ac" opacity="0.75"><title>Nebraska</title></circle>
+<circle cx="363.51019864702954" cy="250.62775598223476" r="4" fill="#2166ac" opacity="0.75"><title>Nevada</title></circle>
+<circle cx="318.9272152007976" cy="247.35722780441353" r="4" fill="#2166ac" opacity="0.75"><title>New Hampshire</title></circle>
+<circle cx="351.63446667717074" cy="248.46709055667435" r="4" fill="#2166ac" opacity="0.75"><title>New Jersey</title></circle>
+<circle cx="414.45725715140554" cy="249.99950822088098" r="4" fill="#2166ac" opacity="0.75"><title>New Mexico</title></circle>
+<circle cx="350.1974709413754" cy="245.95058782375256" r="4" fill="#2166ac" opacity="0.75"><title>New York</title></circle>
+<circle cx="411.3855347321438" cy="242.16701951899503" r="4" fill="#2166ac" opacity="0.75"><title>North Carolina</title></circle>
+<path d="M 237 168 L 411.3855347321438 242.16701951899503" stroke="#8b99aa" fill="none"/>
+<text x="107" y="172" font-size="12">North Carolina</text>
+<circle cx="422.1128428861401" cy="246.03116035744233" r="4" fill="#2166ac" opacity="0.75"><title>North Dakota</title></circle>
+<circle cx="321.7095122831903" cy="246.39097289816323" r="4" fill="#2166ac" opacity="0.75"><title>Ohio</title></circle>
+<circle cx="398.2473677182907" cy="249.25793221768078" r="4" fill="#2166ac" opacity="0.75"><title>Oklahoma</title></circle>
+<circle cx="370.6537796458428" cy="248.87042525549464" r="4" fill="#2166ac" opacity="0.75"><title>Oregon</title></circle>
+<circle cx="340.7453125139999" cy="246.95273670110703" r="4" fill="#2166ac" opacity="0.75"><title>Pennsylvania</title></circle>
+<circle cx="317.42166596116084" cy="243.38048007790098" r="4" fill="#2166ac" opacity="0.75"><title>Rhode Island</title></circle>
+<path d="M 237 190 L 317.42166596116084 243.38048007790098" stroke="#8b99aa" fill="none"/>
+<text x="107" y="194" font-size="12">Rhode Island</text>
+<circle cx="388.0881775122572" cy="247.89368756835302" r="4" fill="#2166ac" opacity="0.75"><title>South Carolina</title></circle>
+<circle cx="397.45716041142845" cy="248.79543518002612" r="4" fill="#2166ac" opacity="0.75"><title>South Dakota</title></circle>
+<circle cx="372.3381440085395" cy="248.3497336429812" r="4" fill="#2166ac" opacity="0.75"><title>Tennessee</title></circle>
+<circle cx="443.99725382765047" cy="249.86043903792847" r="4" fill="#2166ac" opacity="0.75"><title>Texas</title></circle>
+<circle cx="453.67886505116024" cy="248.98994522933938" r="4" fill="#2166ac" opacity="0.75"><title>Utah</title></circle>
+<circle cx="327.53588620532497" cy="247.9630495023685" r="4" fill="#2166ac" opacity="0.75"><title>Vermont</title></circle>
+<circle cx="405.17802164205096" cy="247.79920535450788" r="4" fill="#2166ac" opacity="0.75"><title>Virginia</title></circle>
+<circle cx="397.66416450798044" cy="248.36362649829294" r="4" fill="#2166ac" opacity="0.75"><title>Washington</title></circle>
+<circle cx="340.7119761482155" cy="246.88317515271086" r="4" fill="#2166ac" opacity="0.75"><title>West Virginia</title></circle>
+<circle cx="342.4669427719698" cy="247.85031734765622" r="4" fill="#2166ac" opacity="0.75"><title>Wisconsin</title></circle>
+<circle cx="376.0472209548244" cy="247.0073772356028" r="4" fill="#2166ac" opacity="0.75"><title>Wyoming</title></circle>
+<text x="670" y="110" font-size="20">2010: Ages 15–64</text>
+<path d="M 670.0 130 V 365 M 670 365.0 H 1110" stroke="#ccd2da" fill="none"/>
+<text x="658.0" y="385" font-size="13">-3</text>
+<text x="632" y="370.0" font-size="13">-3</text>
+<path d="M 890.0 130 V 365 M 670 247.5 H 1110" stroke="#ccd2da" fill="none"/>
+<text x="878.0" y="385" font-size="13">+0</text>
+<text x="632" y="252.5" font-size="13">+0</text>
+<path d="M 1110.0 130 V 365 M 670 130.0 H 1110" stroke="#ccd2da" fill="none"/>
+<text x="1098.0" y="385" font-size="13">+3</text>
+<text x="632" y="135.0" font-size="13">+3</text>
+<text x="755" y="408" font-size="15">Observed annual change (log pp)</text>
+<text transform="translate(618,355) rotate(-90)" font-size="15">Same-year revision (log pp)</text>
+<circle cx="927.9769868972693" cy="247.6901223344296" r="4" fill="#2166ac" opacity="0.75"><title>Alabama</title></circle>
+<circle cx="1037.7829164361556" cy="249.83217801742154" r="4" fill="#2166ac" opacity="0.75"><title>Alaska</title></circle>
+<circle cx="954.0225536888958" cy="250.07920382664477" r="4" fill="#2166ac" opacity="0.75"><title>Arizona</title></circle>
+<circle cx="947.3041059442871" cy="246.71169335234347" r="4" fill="#2166ac" opacity="0.75"><title>Arkansas</title></circle>
+<circle cx="961.6921018661453" cy="248.73746761362497" r="4" fill="#2166ac" opacity="0.75"><title>California</title></circle>
+<circle cx="983.4349020680659" cy="249.1121621998015" r="4" fill="#2166ac" opacity="0.75"><title>Colorado</title></circle>
+<circle cx="933.3311843400483" cy="242.21946977569576" r="4" fill="#2166ac" opacity="0.75"><title>Connecticut</title></circle>
+<circle cx="946.3677591296855" cy="249.67835724900584" r="4" fill="#2166ac" opacity="0.75"><title>Delaware</title></circle>
+<circle cx="958.9189110771727" cy="246.45804900486985" r="4" fill="#2166ac" opacity="0.75"><title>Florida</title></circle>
+<circle cx="947.1339045195564" cy="247.7741395435784" r="4" fill="#2166ac" opacity="0.75"><title>Georgia</title></circle>
+<circle cx="965.3033380742663" cy="241.5787687178384" r="4" fill="#2166ac" opacity="0.75"><title>Hawaii</title></circle>
+<path d="M 812 190 L 965.3033380742663 241.5787687178384" stroke="#8b99aa" fill="none"/>
+<text x="682" y="194" font-size="12">Hawaii</text>
+<circle cx="939.1671054803224" cy="251.2926982138602" r="4" fill="#2166ac" opacity="0.75"><title>Idaho</title></circle>
+<circle cx="916.558880451368" cy="247.50271535070948" r="4" fill="#2166ac" opacity="0.75"><title>Illinois</title></circle>
+<circle cx="922.1026970266867" cy="246.92928912872674" r="4" fill="#2166ac" opacity="0.75"><title>Indiana</title></circle>
+<circle cx="932.1261140942695" cy="246.0061663531363" r="4" fill="#2166ac" opacity="0.75"><title>Iowa</title></circle>
+<circle cx="945.5117129039481" cy="248.9148980706018" r="4" fill="#2166ac" opacity="0.75"><title>Kansas</title></circle>
+<circle cx="936.9187311239691" cy="245.1036463929608" r="4" fill="#2166ac" opacity="0.75"><title>Kentucky</title></circle>
+<circle cx="973.7783561173262" cy="247.752488273522" r="4" fill="#2166ac" opacity="0.75"><title>Louisiana</title></circle>
+<circle cx="860.7919596148251" cy="248.66107737643426" r="4" fill="#2166ac" opacity="0.75"><title>Maine</title></circle>
+<circle cx="962.7053534624733" cy="245.79303113651224" r="4" fill="#2166ac" opacity="0.75"><title>Maryland</title></circle>
+<circle cx="951.0654503427378" cy="239.15822285276965" r="4" fill="#2166ac" opacity="0.75"><title>Massachusetts</title></circle>
+<path d="M 812 146 L 951.0654503427378 239.15822285276965" stroke="#8b99aa" fill="none"/>
+<text x="682" y="150" font-size="12">Massachusetts</text>
+<circle cx="869.289954628915" cy="246.9156632991211" r="4" fill="#2166ac" opacity="0.75"><title>Michigan</title></circle>
+<circle cx="917.6222103527979" cy="248.3016612476122" r="4" fill="#2166ac" opacity="0.75"><title>Minnesota</title></circle>
+<circle cx="920.7051365797399" cy="246.14232271528974" r="4" fill="#2166ac" opacity="0.75"><title>Mississippi</title></circle>
+<circle cx="924.546564942287" cy="247.90269200995075" r="4" fill="#2166ac" opacity="0.75"><title>Missouri</title></circle>
+<circle cx="917.9760881947794" cy="249.9956535511967" r="4" fill="#2166ac" opacity="0.75"><title>Montana</title></circle>
+<circle cx="949.9023568382543" cy="250.13066527651029" r="4" fill="#2166ac" opacity="0.75"><title>Nebraska</title></circle>
+<circle cx="923.4355660985846" cy="250.67586649568153" r="4" fill="#2166ac" opacity="0.75"><title>Nevada</title></circle>
+<circle cx="893.5368064545258" cy="246.84306813509406" r="4" fill="#2166ac" opacity="0.75"><title>New Hampshire</title></circle>
+<circle cx="928.9663654901268" cy="247.77728911092623" r="4" fill="#2166ac" opacity="0.75"><title>New Jersey</title></circle>
+<circle cx="975.5203697611596" cy="250.60271847320973" r="4" fill="#2166ac" opacity="0.75"><title>New Mexico</title></circle>
+<circle cx="927.7096769725729" cy="246.0965122037881" r="4" fill="#2166ac" opacity="0.75"><title>New York</title></circle>
+<circle cx="979.6119442707117" cy="239.8405911446277" r="4" fill="#2166ac" opacity="0.75"><title>North Carolina</title></circle>
+<path d="M 812 168 L 979.6119442707117 239.8405911446277" stroke="#8b99aa" fill="none"/>
+<text x="682" y="172" font-size="12">North Carolina</text>
+<circle cx="996.0786265312913" cy="245.42871439017142" r="4" fill="#2166ac" opacity="0.75"><title>North Dakota</title></circle>
+<circle cx="897.8871396189957" cy="244.9580625048609" r="4" fill="#2166ac" opacity="0.75"><title>Ohio</title></circle>
+<circle cx="956.3303432887764" cy="251.60669553175262" r="4" fill="#2166ac" opacity="0.75"><title>Oklahoma</title></circle>
+<circle cx="928.03392843079" cy="250.1611455982764" r="4" fill="#2166ac" opacity="0.75"><title>Oregon</title></circle>
+<circle cx="922.3716942079593" cy="245.3362879672535" r="4" fill="#2166ac" opacity="0.75"><title>Pennsylvania</title></circle>
+<circle cx="897.0906325550106" cy="242.98342258546006" r="4" fill="#2166ac" opacity="0.75"><title>Rhode Island</title></circle>
+<circle cx="943.9330599348369" cy="250.4596997805295" r="4" fill="#2166ac" opacity="0.75"><title>South Carolina</title></circle>
+<circle cx="959.8936599272306" cy="248.43146775975126" r="4" fill="#2166ac" opacity="0.75"><title>South Dakota</title></circle>
+<circle cx="936.3781049619022" cy="249.6237605364529" r="4" fill="#2166ac" opacity="0.75"><title>Tennessee</title></circle>
+<circle cx="1013.3204286162115" cy="248.65779009021836" r="4" fill="#2166ac" opacity="0.75"><title>Texas</title></circle>
+<circle cx="1013.4109838364685" cy="250.882551475411" r="4" fill="#2166ac" opacity="0.75"><title>Utah</title></circle>
+<circle cx="887.8022667154219" cy="248.25526917128886" r="4" fill="#2166ac" opacity="0.75"><title>Vermont</title></circle>
+<circle cx="970.2119465805961" cy="248.76539314551232" r="4" fill="#2166ac" opacity="0.75"><title>Virginia</title></circle>
+<circle cx="948.5211585693552" cy="249.68886225402196" r="4" fill="#2166ac" opacity="0.75"><title>Washington</title></circle>
+<circle cx="912.639031294014" cy="247.8482646587363" r="4" fill="#2166ac" opacity="0.75"><title>West Virginia</title></circle>
+<circle cx="910.2536136154417" cy="248.11076570164408" r="4" fill="#2166ac" opacity="0.75"><title>Wisconsin</title></circle>
+<circle cx="920.3466160580585" cy="250.4228549861662" r="4" fill="#2166ac" opacity="0.75"><title>Wyoming</title></circle>
+<text x="95" y="455" font-size="20">2020: Total population</text>
+<path d="M 95.0 475 V 710 M 95 710.0 H 535" stroke="#ccd2da" fill="none"/>
+<text x="83.0" y="730" font-size="13">-5</text>
+<text x="57" y="715.0" font-size="13">-5</text>
+<path d="M 315.0 475 V 710 M 95 592.5 H 535" stroke="#ccd2da" fill="none"/>
+<text x="303.0" y="730" font-size="13">+0</text>
+<text x="57" y="597.5" font-size="13">+0</text>
+<path d="M 535.0 475 V 710 M 95 475.0 H 535" stroke="#ccd2da" fill="none"/>
+<text x="523.0" y="730" font-size="13">+5</text>
+<text x="57" y="480.0" font-size="13">+5</text>
+<text x="180" y="753" font-size="15">Observed annual change (log pp)</text>
+<text transform="translate(43,700) rotate(-90)" font-size="15">Same-year revision (log pp)</text>
+<circle cx="425.65684074694036" cy="539.886288396857" r="4" fill="#2166ac" opacity="0.75"><title>Alabama</title></circle>
+<circle cx="310.8175500717425" cy="586.8884940113669" r="4" fill="#2166ac" opacity="0.75"><title>Alaska</title></circle>
+<circle cx="251.06093658965275" cy="668.0363614985195" r="4" fill="#2166ac" opacity="0.75"><title>Arizona</title></circle>
+<circle cx="305.39716064384174" cy="605.0358593924536" r="4" fill="#2166ac" opacity="0.75"><title>Arkansas</title></circle>
+<circle cx="325.05177665501935" cy="582.9845225298682" r="4" fill="#2166ac" opacity="0.75"><title>California</title></circle>
+<circle cx="336.6369281710805" cy="600.9501727674924" r="4" fill="#2166ac" opacity="0.75"><title>Colorado</title></circle>
+<circle cx="331.7744982698017" cy="577.5918467731373" r="4" fill="#2166ac" opacity="0.75"><title>Connecticut</title></circle>
+<circle cx="383.04791624349485" cy="580.431083763233" r="4" fill="#2166ac" opacity="0.75"><title>Delaware</title></circle>
+<circle cx="335.27623472517" cy="607.9032747975546" r="4" fill="#2166ac" opacity="0.75"><title>Florida</title></circle>
+<circle cx="358.08243710723883" cy="587.5511327996178" r="4" fill="#2166ac" opacity="0.75"><title>Georgia</title></circle>
+<circle cx="424.02538955451047" cy="519.9354762205968" r="4" fill="#2166ac" opacity="0.75"><title>Hawaii</title></circle>
+<circle cx="460.7807454595775" cy="563.8425192871754" r="4" fill="#2166ac" opacity="0.75"><title>Idaho</title></circle>
+<circle cx="359.3526107007136" cy="554.018688882295" r="4" fill="#2166ac" opacity="0.75"><title>Illinois</title></circle>
+<circle cx="353.58115287485975" cy="580.238553174338" r="4" fill="#2166ac" opacity="0.75"><title>Indiana</title></circle>
+<circle cx="358.628461984131" cy="572.1456183337745" r="4" fill="#2166ac" opacity="0.75"><title>Iowa</title></circle>
+<circle cx="353.56232325361776" cy="572.8480147469347" r="4" fill="#2166ac" opacity="0.75"><title>Kansas</title></circle>
+<circle cx="350.2036526753945" cy="576.2745008930427" r="4" fill="#2166ac" opacity="0.75"><title>Kentucky</title></circle>
+<circle cx="309.19661521186623" cy="589.0488536209464" r="4" fill="#2166ac" opacity="0.75"><title>Louisiana</title></circle>
+<circle cx="375.96390357462496" cy="567.5600583219639" r="4" fill="#2166ac" opacity="0.75"><title>Maine</title></circle>
+<circle cx="403.79399855538543" cy="545.4050284782611" r="4" fill="#2166ac" opacity="0.75"><title>Maryland</title></circle>
+<circle cx="372.3375520586829" cy="561.4303426369875" r="4" fill="#2166ac" opacity="0.75"><title>Massachusetts</title></circle>
+<circle cx="353.39022126899334" cy="567.6992785324154" r="4" fill="#2166ac" opacity="0.75"><title>Michigan</title></circle>
+<circle cx="369.66551205958024" cy="570.4963107136869" r="4" fill="#2166ac" opacity="0.75"><title>Minnesota</title></circle>
+<circle cx="285.58755899921346" cy="599.163896528672" r="4" fill="#2166ac" opacity="0.75"><title>Mississippi</title></circle>
+<circle cx="325.44859895007164" cy="591.1533916087238" r="4" fill="#2166ac" opacity="0.75"><title>Missouri</title></circle>
+<circle cx="384.48267463761397" cy="578.2356072267521" r="4" fill="#2166ac" opacity="0.75"><title>Montana</title></circle>
+<circle cx="384.45249669168635" cy="561.4551404714219" r="4" fill="#2166ac" opacity="0.75"><title>Nebraska</title></circle>
+<circle cx="351.971540845242" cy="608.5857271671014" r="4" fill="#2166ac" opacity="0.75"><title>Nevada</title></circle>
+<circle cx="372.72128033639166" cy="571.1368936082449" r="4" fill="#2166ac" opacity="0.75"><title>New Hampshire</title></circle>
+<circle cx="498.7711914240766" cy="491.99942805873985" r="4" fill="#2166ac" opacity="0.75"><title>New Jersey</title></circle>
+<path d="M 237 491 L 498.7711914240766 491.99942805873985" stroke="#8b99aa" fill="none"/>
+<text x="107" y="495" font-size="12">New Jersey</text>
+<circle cx="354.24693168323233" cy="579.008822018966" r="4" fill="#2166ac" opacity="0.75"><title>New Mexico</title></circle>
+<circle cx="461.54114816868304" cy="498.927724984831" r="4" fill="#2166ac" opacity="0.75"><title>New York</title></circle>
+<path d="M 237 513 L 461.54114816868304 498.927724984831" stroke="#8b99aa" fill="none"/>
+<text x="107" y="517" font-size="12">New York</text>
+<circle cx="293.5081751869877" cy="626.1263550413896" r="4" fill="#2166ac" opacity="0.75"><title>North Carolina</title></circle>
+<circle cx="405.5955277513813" cy="548.9857874696809" r="4" fill="#2166ac" opacity="0.75"><title>North Dakota</title></circle>
+<circle cx="353.2141594747389" cy="571.4290625358584" r="4" fill="#2166ac" opacity="0.75"><title>Ohio</title></circle>
+<circle cx="320.0706554593737" cy="601.6917762561268" r="4" fill="#2166ac" opacity="0.75"><title>Oklahoma</title></circle>
+<circle cx="343.53155395696433" cy="591.371674409037" r="4" fill="#2166ac" opacity="0.75"><title>Oregon</title></circle>
+<circle cx="382.1047975783715" cy="553.7885470011372" r="4" fill="#2166ac" opacity="0.75"><title>Pennsylvania</title></circle>
+<circle cx="471.55979785528467" cy="506.5875866167132" r="4" fill="#2166ac" opacity="0.75"><title>Rhode Island</title></circle>
+<path d="M 237 535 L 471.55979785528467 506.5875866167132" stroke="#8b99aa" fill="none"/>
+<text x="107" y="539" font-size="12">Rhode Island</text>
+<circle cx="293.0121283655036" cy="631.5757166966359" r="4" fill="#2166ac" opacity="0.75"><title>South Carolina</title></circle>
+<circle cx="318.37634915873656" cy="605.4581772007501" r="4" fill="#2166ac" opacity="0.75"><title>South Dakota</title></circle>
+<circle cx="377.3075537061627" cy="578.5842601873859" r="4" fill="#2166ac" opacity="0.75"><title>Tennessee</title></circle>
+<circle cx="352.9512975889668" cy="602.3545206551437" r="4" fill="#2166ac" opacity="0.75"><title>Texas</title></circle>
+<circle cx="424.320716872241" cy="567.9770650498518" r="4" fill="#2166ac" opacity="0.75"><title>Utah</title></circle>
+<circle cx="446.4113099492473" cy="519.6806808153393" r="4" fill="#2166ac" opacity="0.75"><title>Vermont</title></circle>
+<circle cx="356.283254496369" cy="579.7486505878792" r="4" fill="#2166ac" opacity="0.75"><title>Virginia</title></circle>
+<circle cx="379.7000127020927" cy="582.3809370545692" r="4" fill="#2166ac" opacity="0.75"><title>Washington</title></circle>
+<circle cx="306.1851125808158" cy="583.4546962427605" r="4" fill="#2166ac" opacity="0.75"><title>West Virginia</title></circle>
+<circle cx="369.6462085446842" cy="566.5692572904475" r="4" fill="#2166ac" opacity="0.75"><title>Wisconsin</title></circle>
+<circle cx="296.4010096318986" cy="611.3771330837413" r="4" fill="#2166ac" opacity="0.75"><title>Wyoming</title></circle>
+<text x="670" y="455" font-size="20">2020: Ages 15–64</text>
+<path d="M 670.0 475 V 710 M 670 710.0 H 1110" stroke="#ccd2da" fill="none"/>
+<text x="658.0" y="730" font-size="13">-6</text>
+<text x="632" y="715.0" font-size="13">-6</text>
+<path d="M 890.0 475 V 710 M 670 592.5 H 1110" stroke="#ccd2da" fill="none"/>
+<text x="878.0" y="730" font-size="13">+0</text>
+<text x="632" y="597.5" font-size="13">+0</text>
+<path d="M 1110.0 475 V 710 M 670 475.0 H 1110" stroke="#ccd2da" fill="none"/>
+<text x="1098.0" y="730" font-size="13">+6</text>
+<text x="632" y="480.0" font-size="13">+6</text>
+<text x="755" y="753" font-size="15">Observed annual change (log pp)</text>
+<text transform="translate(618,700) rotate(-90)" font-size="15">Same-year revision (log pp)</text>
+<circle cx="975.1209430636695" cy="542.3866642851033" r="4" fill="#2166ac" opacity="0.75"><title>Alabama</title></circle>
+<circle cx="859.6160967614979" cy="588.8602366829527" r="4" fill="#2166ac" opacity="0.75"><title>Alaska</title></circle>
+<circle cx="794.2784224909162" cy="673.4862829236603" r="4" fill="#2166ac" opacity="0.75"><title>Arizona</title></circle>
+<path d="M 812 535 L 794.2784224909162 673.4862829236603" stroke="#8b99aa" fill="none"/>
+<text x="682" y="539" font-size="12">Arizona</text>
+<circle cx="865.9511702985504" cy="605.1989968859907" r="4" fill="#2166ac" opacity="0.75"><title>Arkansas</title></circle>
+<circle cx="890.4087232794243" cy="582.4682466207823" r="4" fill="#2166ac" opacity="0.75"><title>California</title></circle>
+<circle cx="883.3994353230548" cy="608.6661071535648" r="4" fill="#2166ac" opacity="0.75"><title>Colorado</title></circle>
+<circle cx="882.5788757073667" cy="582.2294214567576" r="4" fill="#2166ac" opacity="0.75"><title>Connecticut</title></circle>
+<circle cx="929.2560827542022" cy="577.6314033355358" r="4" fill="#2166ac" opacity="0.75"><title>Delaware</title></circle>
+<circle cx="891.4397166579396" cy="604.3270800099165" r="4" fill="#2166ac" opacity="0.75"><title>Florida</title></circle>
+<circle cx="912.8085628264301" cy="590.0475375607581" r="4" fill="#2166ac" opacity="0.75"><title>Georgia</title></circle>
+<circle cx="980.9530100181474" cy="518.8671919119415" r="4" fill="#2166ac" opacity="0.75"><title>Hawaii</title></circle>
+<circle cx="977.3314245959182" cy="583.464018943268" r="4" fill="#2166ac" opacity="0.75"><title>Idaho</title></circle>
+<circle cx="927.4693746347289" cy="551.0177772950994" r="4" fill="#2166ac" opacity="0.75"><title>Illinois</title></circle>
+<circle cx="890.1062544057131" cy="590.7318857118764" r="4" fill="#2166ac" opacity="0.75"><title>Indiana</title></circle>
+<circle cx="886.5576543689525" cy="587.9280100554402" r="4" fill="#2166ac" opacity="0.75"><title>Iowa</title></circle>
+<circle cx="896.2624114163377" cy="581.774892121278" r="4" fill="#2166ac" opacity="0.75"><title>Kansas</title></circle>
+<circle cx="892.1831917730783" cy="583.129166564658" r="4" fill="#2166ac" opacity="0.75"><title>Kentucky</title></circle>
+<circle cx="858.833656099521" cy="592.3626182359512" r="4" fill="#2166ac" opacity="0.75"><title>Louisiana</title></circle>
+<circle cx="900.9156014081798" cy="580.9167891361276" r="4" fill="#2166ac" opacity="0.75"><title>Maine</title></circle>
+<circle cx="960.7391808883965" cy="544.2552536956557" r="4" fill="#2166ac" opacity="0.75"><title>Maryland</title></circle>
+<circle cx="904.1395719336668" cy="575.59712796172" r="4" fill="#2166ac" opacity="0.75"><title>Massachusetts</title></circle>
+<circle cx="905.7528476462502" cy="567.9690703931782" r="4" fill="#2166ac" opacity="0.75"><title>Michigan</title></circle>
+<circle cx="916.4478763510182" cy="574.412576059356" r="4" fill="#2166ac" opacity="0.75"><title>Minnesota</title></circle>
+<circle cx="830.8355696666993" cy="606.0908078393402" r="4" fill="#2166ac" opacity="0.75"><title>Mississippi</title></circle>
+<circle cx="878.6419544190217" cy="592.4181782877583" r="4" fill="#2166ac" opacity="0.75"><title>Missouri</title></circle>
+<circle cx="899.6647203436625" cy="595.2900845129002" r="4" fill="#2166ac" opacity="0.75"><title>Montana</title></circle>
+<circle cx="929.1861031292849" cy="569.5076134013899" r="4" fill="#2166ac" opacity="0.75"><title>Nebraska</title></circle>
+<circle cx="912.0674123134118" cy="604.5210334292092" r="4" fill="#2166ac" opacity="0.75"><title>Nevada</title></circle>
+<circle cx="900.4945615118836" cy="582.5415567188677" r="4" fill="#2166ac" opacity="0.75"><title>New Hampshire</title></circle>
+<circle cx="1067.4056370984501" cy="486.2555095172087" r="4" fill="#2166ac" opacity="0.75"><title>New Jersey</title></circle>
+<path d="M 812 491 L 1067.4056370984501 486.2555095172087" stroke="#8b99aa" fill="none"/>
+<text x="682" y="495" font-size="12">New Jersey</text>
+<circle cx="902.8934796011936" cy="585.1195340923114" r="4" fill="#2166ac" opacity="0.75"><title>New Mexico</title></circle>
+<circle cx="1035.165578813231" cy="490.6170668869692" r="4" fill="#2166ac" opacity="0.75"><title>New York</title></circle>
+<path d="M 812 513 L 1035.165578813231 490.6170668869692" stroke="#8b99aa" fill="none"/>
+<text x="682" y="517" font-size="12">New York</text>
+<circle cx="840.1703831534126" cy="630.1092278844837" r="4" fill="#2166ac" opacity="0.75"><title>North Carolina</title></circle>
+<circle cx="963.8157345991867" cy="545.8405461046931" r="4" fill="#2166ac" opacity="0.75"><title>North Dakota</title></circle>
+<circle cx="893.3370075242324" cy="578.6612086381583" r="4" fill="#2166ac" opacity="0.75"><title>Ohio</title></circle>
+<circle cx="871.9303171470701" cy="605.9776695897367" r="4" fill="#2166ac" opacity="0.75"><title>Oklahoma</title></circle>
+<circle cx="877.8485760171147" cy="602.7659884354407" r="4" fill="#2166ac" opacity="0.75"><title>Oregon</title></circle>
+<circle cx="928.9446783319265" cy="558.7240208984856" r="4" fill="#2166ac" opacity="0.75"><title>Pennsylvania</title></circle>
+<circle cx="997.7151519718202" cy="521.8093459290939" r="4" fill="#2166ac" opacity="0.75"><title>Rhode Island</title></circle>
+<circle cx="820.8628408314356" cy="641.4924849420046" r="4" fill="#2166ac" opacity="0.75"><title>South Carolina</title></circle>
+<circle cx="859.1414711731194" cy="610.463676926432" r="4" fill="#2166ac" opacity="0.75"><title>South Dakota</title></circle>
+<circle cx="922.8536804179777" cy="583.2959935358961" r="4" fill="#2166ac" opacity="0.75"><title>Tennessee</title></circle>
+<circle cx="909.0491094058154" cy="604.2890993936041" r="4" fill="#2166ac" opacity="0.75"><title>Texas</title></circle>
+<circle cx="977.0400540918049" cy="577.6497637558987" r="4" fill="#2166ac" opacity="0.75"><title>Utah</title></circle>
+<circle cx="959.7789745620089" cy="537.7910027520683" r="4" fill="#2166ac" opacity="0.75"><title>Vermont</title></circle>
+<circle cx="906.5518879657109" cy="582.3652669721608" r="4" fill="#2166ac" opacity="0.75"><title>Virginia</title></circle>
+<circle cx="920.217437073211" cy="590.2834057253456" r="4" fill="#2166ac" opacity="0.75"><title>Washington</title></circle>
+<circle cx="877.4643308199561" cy="577.0651588016203" r="4" fill="#2166ac" opacity="0.75"><title>West Virginia</title></circle>
+<circle cx="900.0216259185212" cy="579.031243518631" r="4" fill="#2166ac" opacity="0.75"><title>Wisconsin</title></circle>
+<circle cx="828.8019855686277" cy="622.3151710159465" r="4" fill="#2166ac" opacity="0.75"><title>Wyoming</title></circle>
+</g></svg>
