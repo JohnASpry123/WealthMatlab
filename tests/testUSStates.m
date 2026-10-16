@@ -192,7 +192,9 @@ fid=fopen([file '.json'],'w'); fwrite(fid,jsonencode(record)); fclose(fid);
 end
 
 function r=beaFixture()
-[f,~]=usstates.states(); rows=struct([]); k=0;
+[f,~]=usstates.states(); k=0;
+rows=struct('GeoFIPS',{},'GeoName',{},'TimePeriod',{},'DataValue',{}, ...
+    'CL_UNIT',{},'UNIT_MULT',{},'Code',{});
 for y=1997:1998
     for i=1:50
         k=k+1;
