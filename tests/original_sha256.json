@@ -1,0 +1,19 @@
+{
+  "base_commit": "15d912cf8e2657cab9691001a7fc35fcf18dd804",
+  "sha256": {
+    "ComputePath.m": "01fd76487bcf29cd5815d7443b987230666385b31eb468bc7db65d1dfadd42b4",
+    "July 18 2025 Wei Yu Replication.mat": "089e266b978f3c7a7c9a9a8354f8fe300f3ee32c9598d9de355675f3b2f01357",
+    "Main.m": "0cd2b7bb7a55d9672049ae95d2d9147aa57c9077d10cc589d1ae57b317580116",
+    "Main_Table1_BasicFacts.m": "f527384f10a1f1e695c819c3327b2d8b73363f2c0e7ad3e415f6cad4970528db",
+    "Main_Table2_Decomposition.m": "61a61805fa3e286606ad1e4cbe3da31411a8274e071adf83af6bc6dfca1d20af",
+    "Main_Table3_AlternativeDef.m": "7e4380555edf98638ff2cd2fa1c20dbec0755636d8e33ec657ff9a3dcf0394d7",
+    "PlotPaper.m": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ReadData.m": "88dfe34bf266e01b1e63739e1243542125d4f2d448693709125ed114ce907ea8",
+    "ReadDataWDI.m": "55c50ce8a8e8adc2bb7444b416a4695eacdcf9e4dafc044e2186ac32541b8dec",
+    "ReadDataWDI_PWT.m": "3553562994d6f40c9a7a5e2223ed58d07d2ddde95e418125ce128a7a741f4a7a",
+    "ReadExcel.m": "a3a341d6fd0ec56f4a0c65ee61827fc8755da501063d2b8115ff3e185bc4cf98",
+    "ReadExcelPWT.m": "52f1d142f4a9b150e6dccf602232a993ab16321f99c092345daa2f4ed014a46c",
+    "SteadyState.m": "d3b2ea42de0e7c5cf91c2e7d77d242589cc9c165b88813a4344ff79c3a388012",
+    "growth.m": "4bb837a7e3b97b3d3197d0f9e830602a01b2ed32421128cc4ada267e8a0fd1c6"
+  }
+}
